@@ -65,13 +65,6 @@
         2313,
         2285
       ],
-      "Book / Quiver": [
-        2318,
-        2325,
-        2326,
-        2341,
-        2376
-      ],
       "Fractal Capacitor": [
         2377,
         2378,
@@ -83,7 +76,7 @@
         6344,
         6474
       ],
-      "Wings of Glory / The Ascension": [
+      "Wings of Glory (The Ascension)": [
         6560,
         6561,
         6562,
@@ -91,7 +84,7 @@
         6573,
         6558
       ],
-      "Wings of War / Warbringer": [
+      "Wings of War (Warbringer)": [
         7248,
         7252,
         7256,
@@ -100,10 +93,15 @@
         7246
       ],
       "Standalone Back Item": [
+        2318,
+        2325,
+        2326,
         2340,
+        2341,
         2342,
         2343,
         2344,
+        2376,
         2380,
         5653,
         6253,
@@ -134,7 +132,7 @@
       ]
     },
     "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
-      "Vine / Mawdrey": [
+      "Vine (Mawdrey)": [
         5544,
         5545,
         5532
@@ -149,17 +147,17 @@
         6361,
         6495
       ],
-      "Order Series 1: Durmand Priory": [
+      "Orders of Tyria Series 1: Durmand Priory": [
         6296,
         6170,
         6379
       ],
-      "Order Series 2: Order of Whispers": [
+      "Orders of Tyria Series 2: Order of Whispers": [
         6416,
         6398,
         6159
       ],
-      "Order Series 3: Vigil": [
+      "Orders of Tyria Series 3: Vigil": [
         6243,
         6246,
         6304
@@ -174,7 +172,7 @@
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Druid Stone / The Wayfarer's Henge": [
+      "Druid Stone (The Wayfarer's Henge)": [
         7209,
         7216,
         7214,
@@ -204,7 +202,7 @@
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Inquest / Mark Y Golem": [
+      "Inquest (Mark Y Golem)": [
         8057,
         8049,
         8058,

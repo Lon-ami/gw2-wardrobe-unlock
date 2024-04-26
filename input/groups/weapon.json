@@ -23,7 +23,7 @@
         3869,
         3871
       ],
-      "Ascalon Loot Weapon Series 1 - Steam": [
+      "Ascalon Loot Weapon Series 1 - Steam (Charr)": [
         5185,
         5218,
         5091,
@@ -200,7 +200,7 @@
         5084,
         5117
       ],
-      "Shiverpeak Mountains Loot Weapon Series 3 - Etched": [
+      "Shiverpeak Mountains Loot Weapon Series 3 - Etched (Svanir)": [
         5026,
         5028,
         5063,
@@ -222,7 +222,7 @@
         5303,
         5112
       ],
-      "Shiverpeak Mountains Loot Weapon Series 3 - Etched > Corrupted": [
+      "Shiverpeak Mountains Loot Weapon Series 3 - Etched (Svanir) > Corrupted (Icebrood)": [
         4037,
         4069,
         3974,
@@ -243,7 +243,7 @@
         4027,
         3963
       ],
-      "Tarnished Coast Loot Weapon Series 1 - Glyphic": [
+      "Tarnished Coast Loot Weapon Series 1 - Glyphic (Asuran)": [
         5217,
         5122,
         5124,
@@ -264,7 +264,7 @@
         5050,
         5151
       ],
-      "Tarnished Coast Loot Weapon Series 2 - Verdant": [
+      "Tarnished Coast Loot Weapon Series 2 - Verdant (Sylvari)": [
         5156,
         5189,
         5125,
@@ -307,7 +307,7 @@
         5118,
         5183
       ],
-      "Ruins of Orr Loot Weapon Series - Orrian": [
+      "Ruins of Orr Loot Weapon Series - Orrian (Risen)": [
         4865,
         5057,
         5093,
@@ -328,7 +328,7 @@
         5055,
         5087
       ],
-      "Renown Heart Weapon Series - Modniir": [
+      "Renown Heart Weapon Series - Modniir (Centaur)": [
         4608,
         4643,
         4645,
@@ -523,7 +523,7 @@
         4606,
         4607
       ],
-      "Standard Crafting Weapon Series 1 - Bronze / Green Wood": [
+      "Standard Crafting Weapon Series 1 - Bronze": [
         4048,
         4004,
         4005,
@@ -544,7 +544,7 @@
         3883,
         3900
       ],
-      "Standard Crafting Weapon Series 2 - Iron / Soft Wood": [
+      "Standard Crafting Weapon Series 2 - Iron": [
         4000,
         3875,
         4009,
@@ -588,7 +588,7 @@
         4029,
         3903
       ],
-      "Standard Crafting Weapon Series 4 - Steel / Seasoned Wood": [
+      "Standard Crafting Weapon Series 4 - Steel": [
         5696,
         5697,
         5682,
@@ -630,7 +630,7 @@
         4028,
         3966
       ],
-      "Standard Crafting Weapon Series 6 - Darksteel / Hard Wood": [
+      "Standard Crafting Weapon Series 6 - Darksteel": [
         4049,
         4034,
         4006,
@@ -672,7 +672,7 @@
         3993,
         4095
       ],
-      "Standard Crafting Weapon Series 8 - Mithril / Elder Wood": [
+      "Standard Crafting Weapon Series 8 - Mithril": [
         4081,
         4114,
         4083,
@@ -715,7 +715,7 @@
         4063,
         4712
       ],
-      "Standard Crafting Weapon Series 10 - Pearl": [
+      "Standard Crafting Weapon Series 10 - Pearl (Quaggan)": [
         4097,
         4098,
         4099,
@@ -954,7 +954,7 @@
         4683,
         4684
       ],
-      "Dungeon Series 1: Ascalonian Catacombs - Royal Ascalonian": [
+      "Dungeon Series 1: Ascalonian Catacombs (AC) - Royal Ascalonian": [
         4384,
         4385,
         4356,
@@ -975,7 +975,7 @@
         4372,
         4373
       ],
-      "Dungeon Series 2: Caudecus's Manor - Golden Wing": [
+      "Dungeon Series 2: Caudecus's Manor (CM) - Golden Wing": [
         4417,
         4514,
         4450,
@@ -996,7 +996,7 @@
         4411,
         4511
       ],
-      "Dungeon Series 3: Twilight Arbor - Nightmare Court": [
+      "Dungeon Series 3: Twilight Arbor (TA) - Nightmare Court": [
         4512,
         4482,
         4517,
@@ -1017,7 +1017,7 @@
         4383,
         4415
       ],
-      "Dungeon Series 4: Sorrow's Embrace - Dark Asuran": [
+      "Dungeon Series 4: Sorrow's Embrace (SE) - Tainted Glyphic (Dark Asuran)": [
         4387,
         4516,
         4452,
@@ -1038,7 +1038,7 @@
         4381,
         4382
       ],
-      "Dungeon Series 5: Citadel of Flame - Molten": [
+      "Dungeon Series 5: Citadel of Flame (CoF) - Molten (Godforged)": [
         4353,
         4481,
         4354,
@@ -1059,7 +1059,7 @@
         4377,
         4444
       ],
-      "Dungeon Series 6: Honor of the Waves - Kodan": [
+      "Dungeon Series 6: Honor of the Waves (HotW) - Kodan": [
         4480,
         4449,
         4418,
@@ -1080,7 +1080,7 @@
         4413,
         4447
       ],
-      "Dungeon Series 7: Crucible of Eternity - Inquest": [
+      "Dungeon Series 7: Crucible of Eternity (CoE) - Inquest": [
         4485,
         4389,
         4358,
@@ -1101,7 +1101,7 @@
         4507,
         4443
       ],
-      "Dungeon Series 8: The Ruined City of Arah - Dragon's Deep": [
+      "Dungeon Series 8: The Ruined City of Arah - Dragon's Deep (Spectral)": [
         4416,
         4448,
         4518,
@@ -1122,7 +1122,7 @@
         4509,
         4414
       ],
-      "Order Series 1: Durmand Priory - Priory's Historical": [
+      "Orders of Tyria Series 1: Durmand Priory - Priory's Historical": [
         4961,
         4932,
         4937,
@@ -1143,7 +1143,7 @@
         4922,
         4927
       ],
-      "Order Series 2: Order of Whispers - Whisper's Secret": [
+      "Orders of Tyria Series 2: Order of Whispers - Whisper's Secret": [
         4929,
         4962,
         4931,
@@ -1164,7 +1164,7 @@
         4924,
         4958
       ],
-      "Order Series 3: Vigil - Vigil's Honor": [
+      "Orders of Tyria Series 3: Vigil - Vigil's Honor": [
         4928,
         4930,
         4965,
@@ -1206,7 +1206,7 @@
         9611,
         9612
       ],
-      "Beaded": [
+      "Beaded (Hylek)": [
         3904,
         4032,
         3938,
@@ -1263,7 +1263,7 @@
         4733,
         4734
       ],
-      "Conjure": [
+      "Conjured": [
         4882,
         4885,
         4855,
@@ -1334,7 +1334,7 @@
         6358,
         6206
       ],
-      "Godskull": [
+      "Godskull (Grawl)": [
         3940,
         3878,
         4072,
@@ -1586,7 +1586,7 @@
         4956,
         4959
       ],
-      "Phantasm": [
+      "Phantasmal": [
         4705,
         4706,
         4851,
@@ -1596,7 +1596,7 @@
         4731,
         4860
       ],
-      "Spirit Weapon": [
+      "Spirit": [
         4784,
         4819,
         4883,
@@ -1858,7 +1858,7 @@
         11139,
         11140
       ],
-      "Dragon's Watch": [
+      "Dragon's Watch Memento": [
         10825,
         10843,
         10903,
@@ -2026,15 +2026,6 @@
         6461,
         6366
       ],
-      "Broken Caladbolg / Regrown Caladbolg / Caladbolg Origin": [
-        6264,
-        6403,
-        7160,
-        7161,
-        7162,
-        7163,
-        7164
-      ],
       "Chak": [
         6272,
         6209,
@@ -2194,6 +2185,7 @@
         6160,
         6177,
         6198,
+        6264,
         6307,
         6359,
         6374,
@@ -2218,6 +2210,14 @@
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
+      "Caladbolg": [
+        6403,
+        7160,
+        7161,
+        7162,
+        7163,
+        7164
+      ],
       "Carnival": [
         6944,
         6945,
@@ -3330,7 +3330,7 @@
         11798,
         11799
       ],
-      "Sin": [
+      "Sinful": [
         11575,
         11623,
         11633,

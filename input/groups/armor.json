@@ -666,7 +666,7 @@
         123,
         124
       ],
-      "Dungeon Series 1: Ascalonian Catacombs - Ascalonian Protector / Ascalonian Sentry / Ascalonian Performer": [
+      "Dungeon Series 1: Ascalonian Catacombs (AC) - Ascalonian Protector / Ascalonian Sentry / Ascalonian Performer": [
         611,
         612,
         613,
@@ -686,7 +686,7 @@
         627,
         628
       ],
-      "Dungeon Series 2: Caudecus's Manor - Council Guard / Council Watch / Council Ministry": [
+      "Dungeon Series 2: Caudecus's Manor (CM) - Council Guard / Council Watch / Council Ministry": [
         647,
         648,
         649,
@@ -706,7 +706,7 @@
         663,
         664
       ],
-      "Dungeon Series 3: Twilight Arbor - Nightmare Court": [
+      "Dungeon Series 3: Twilight Arbor (TA) - Nightmare Court": [
         684,
         685,
         686,
@@ -726,7 +726,7 @@
         700,
         701
       ],
-      "Dungeon Series 4: Sorrow's Embrace - Forgeman": [
+      "Dungeon Series 4: Sorrow's Embrace (SE) - Forgeman": [
         672,
         673,
         674,
@@ -746,7 +746,7 @@
         670,
         671
       ],
-      "Dungeon Series 5: Citadel of Flame - Flame Legion": [
+      "Dungeon Series 5: Citadel of Flame (CoF) - Flame Legion": [
         736,
         737,
         720,
@@ -766,7 +766,7 @@
         734,
         735
       ],
-      "Dungeon Series 6: Honor of the Waves - Koda": [
+      "Dungeon Series 6: Honor of the Waves (HotW) - Koda": [
         704,
         705,
         706,
@@ -786,7 +786,7 @@
         702,
         703
       ],
-      "Dungeon Series 7: Crucible of Eternity - Inquest": [
+      "Dungeon Series 7: Crucible of Eternity (CoE) - Inquest": [
         738,
         739,
         740,
@@ -826,7 +826,7 @@
         638,
         639
       ],
-      "Order Series 1: Durmand Priory - Priory's Historical": [
+      "Orders of Tyria Series 1: Durmand Priory - Priory's Historical": [
         1376,
         1377,
         1378,
@@ -846,7 +846,7 @@
         1392,
         1393
       ],
-      "Order Series 2: Order of Whispers - Whisper's Secret": [
+      "Orders of Tyria Series 2: Order of Whispers - Whisper's Secret": [
         1412,
         1413,
         1414,
@@ -865,7 +865,7 @@
         1427,
         1428
       ],
-      "Order Series 3: Vigil - Vigil's Honor": [
+      "Orders of Tyria Series 3: Vigil - Vigil's Honor": [
         1408,
         1409,
         1410,
@@ -1701,7 +1701,7 @@
         8753,
         8754
       ],
-      "Racing / Golden Racing": [
+      "Racing": [
         8505,
         8506,
         8507,
@@ -1866,7 +1866,7 @@
         10369,
         10622
       ],
-      "Ancient Canthan > Ancient Kraken / Ancient Tahkayun / Ancient Ritualist > Special Ops / Special Ops Captain": [
+      "Ancient Canthan > Ancient Kraken / Ancient Tahkayun / Ancient Ritualist > Special Ops": [
         11260,
         11263,
         11264,
@@ -1968,7 +1968,7 @@
         10705,
         10718
       ],
-      "Oni": [
+      "Oni Arms": [
         10230,
         10594,
         10631,
@@ -2130,7 +2130,7 @@
         12116,
         12117
       ],
-      "Reality Rig Mk1 / Reality Rig Mk2 / Reality Rig Mk3": [
+      "Reality Rig": [
         10790,
         10795,
         10797,
@@ -2615,7 +2615,7 @@
         11308,
         11349
       ],
-      "Deathly / Deathly Avian / Deathly Bull": [
+      "Deathly": [
         1116,
         1119,
         1120,
@@ -2626,7 +2626,7 @@
         1131,
         1136
       ],
-      "Dragon Horns / Dragon's Eye Circlet / Enchanted Dragon Crown": [
+      "Dragon Horns": [
         8234,
         8238,
         8253,
@@ -2827,7 +2827,7 @@
         9343,
         9350
       ],
-      "Mask of the Crown / Mask of the Jubilee / Mask of the Queen": [
+      "Mask of the Queen's Jubilee": [
         1184,
         1185,
         1186,
@@ -2849,7 +2849,7 @@
         6910,
         6943
       ],
-      "Pointed Ears / Noble Pointed Ears / Royal Pointed Ears": [
+      "Pointed Ears": [
         11032,
         11035,
         11038,
@@ -3081,7 +3081,7 @@
         8743,
         8751
       ],
-      "Standalone Armor -> Head -> Glasses / Sunglasses": [
+      "Standalone Armor -> Head -> Glasses": [
         967,
         971,
         982,
@@ -3118,7 +3118,7 @@
         11419,
         11431
       ],
-      "Standalone Armor -> Head -> Horn / Horns": [
+      "Standalone Armor -> Head -> Horns": [
         999,
         1000,
         1027,
