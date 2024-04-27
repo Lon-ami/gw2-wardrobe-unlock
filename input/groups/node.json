@@ -52,28 +52,28 @@
         "salvage_pile"
       ]
     },
-    "Super Adventure Festival (SAB)": {
+    "(F2) Super Adventure Festival (SAB)": {
       "Standalone Node": [
         "bauble_gathering_system"
       ]
     },
-    "Dragon Bash": {
+    "(F3) Dragon Bash": {
       "Standalone Node": [
         "commemorative_dragon_pinata"
       ]
     },
-    "Festival of the Four Winds (FotFW)": {
+    "(F4) Festival of the Four Winds (FotFW)": {
       "Standalone Node": [
         "quartz_node"
       ]
     },
-    "Shadow of the Mad King (Halloween)": {
+    "(F5) Shadow of the Mad King (Halloween)": {
       "Standalone Node": [
         "candy_corn_node",
         "king_sized_candy_corn"
       ]
     },
-    "A Very Merry Wintersday": {
+    "(F6) A Very Merry Wintersday": {
       "Standalone Node": [
         "wintersday_tree"
       ]

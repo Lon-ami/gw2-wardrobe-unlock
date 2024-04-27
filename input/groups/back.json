@@ -1,23 +1,7 @@
 {
   "topLevelCategories": {
     "(X0) Guild Wars 2 (GW2)": {
-      "Crafting Discipline Series 1: Tailor": [
-        2307,
-        2309,
-        2282,
-        2283,
-        2316,
-        2286
-      ],
-      "Crafting Discipline Series 2: Leatherworker": [
-        2292,
-        2293,
-        2294,
-        2295,
-        2296,
-        2315
-      ],
-      "Crafting Discipline Series 3: Armorsmith": [
+      "Crafting Discipline #01: Armorsmith": [
         2304,
         2305,
         2308,
@@ -25,23 +9,23 @@
         2301,
         2303
       ],
-      "Crafting Discipline Series 4: Artificer": [
-        2320,
-        2297,
-        2298,
-        2299,
-        2284,
-        2300
+      "Crafting Discipline #02: Leatherworker": [
+        2292,
+        2293,
+        2294,
+        2295,
+        2296,
+        2315
       ],
-      "Crafting Discipline Series 5: Huntsman": [
-        2321,
-        2322,
-        2323,
-        2310,
-        2311,
-        2312
+      "Crafting Discipline #03: Tailor": [
+        2307,
+        2309,
+        2282,
+        2283,
+        2316,
+        2286
       ],
-      "Crafting Discipline Series 6: Weaponsmith": [
+      "Crafting Discipline #04: Weaponsmith": [
         2288,
         2290,
         2306,
@@ -49,21 +33,37 @@
         2317,
         2287
       ],
-      "Crafting Discipline Series 7: Chef": [
-        2289,
-        2324,
-        2277,
-        2314,
-        2302,
-        2319
+      "Crafting Discipline #05: Huntsman": [
+        2321,
+        2322,
+        2323,
+        2310,
+        2311,
+        2312
       ],
-      "Crafting Discipline Series 8: Jeweler": [
+      "Crafting Discipline #06: Artificer": [
+        2320,
+        2297,
+        2298,
+        2299,
+        2284,
+        2300
+      ],
+      "Crafting Discipline #07: Jeweler": [
         2276,
         2278,
         2280,
         2281,
         2313,
         2285
+      ],
+      "Crafting Discipline #08: Chef": [
+        2289,
+        2324,
+        2277,
+        2314,
+        2302,
+        2319
       ],
       "Fractal Capacitor": [
         2377,
@@ -139,7 +139,7 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
-      "Crafting Discipline Series 9: Scribe": [
+      "Crafting Discipline #09: Scribe": [
         6512,
         6402,
         6341,
@@ -147,17 +147,17 @@
         6361,
         6495
       ],
-      "Orders of Tyria Series 1: Durmand Priory": [
+      "Orders of Tyria #01: Durmand Priory": [
         6296,
         6170,
         6379
       ],
-      "Orders of Tyria Series 2: Order of Whispers": [
+      "Orders of Tyria #02: Order of Whispers": [
         6416,
         6398,
         6159
       ],
-      "Orders of Tyria Series 3: Vigil": [
+      "Orders of Tyria #03: Vigil": [
         6243,
         6246,
         6304
@@ -274,7 +274,7 @@
       "Standalone Back Item": [
       ]
     },
-    "Lunar New Year (LNY)": {
+    "(F1) Lunar New Year (LNY)": {
       "Lucky Celestial Lantern": [
         5856,
         6619,
@@ -300,7 +300,7 @@
         12007
       ]
     },
-    "Super Adventure Festival (SAB)": {
+    "(F2) Super Adventure Festival (SAB)": {
       "Bauble": [
         2360,
         2361,
@@ -312,14 +312,14 @@
         2359
       ]
     },
-    "Dragon Bash": {
+    "(F3) Dragon Bash": {
       "Holographic Wings": [
         2351,
         2352,
         8833
       ]
     },
-    "Festival of the Four Winds (FotFW)": {
+    "(F4) Festival of the Four Winds (FotFW)": {
       "Aspect Catcher": [
         2346,
         2347,
@@ -337,7 +337,7 @@
         8861
       ]
     },
-    "Shadow of the Mad King (Halloween)": {
+    "(F5) Shadow of the Mad King (Halloween)": {
       "Mad Memoires": [
         2336,
         7760,
@@ -348,7 +348,7 @@
         9638
       ]
     },
-    "A Very Merry Wintersday": {
+    "(F6) A Very Merry Wintersday": {
       "Standalone Back Item": [
         2374,
         2375,

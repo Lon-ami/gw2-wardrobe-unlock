@@ -1,7 +1,7 @@
 {
   "topLevelCategories": {
     "(X0) Guild Wars 2 (GW2)": {
-      "Beginner Stats Series 1: Mighty": [
+      "Beginner Stats #01: Mighty": [
         996,
         998,
         1005,
@@ -12,7 +12,7 @@
         2718,
         2725
       ],
-      "Beginner Stats Series 2: Precise": [
+      "Beginner Stats #02: Precise": [
         1001,
         1006,
         1871,
@@ -20,7 +20,7 @@
         2721,
         2726
       ],
-      "Beginner Stats Series 3: Resilient": [
+      "Beginner Stats #03: Resilient": [
         1002,
         1007,
         1872,
@@ -28,7 +28,7 @@
         2722,
         2727
       ],
-      "Beginner Stats Series 4: Vital": [
+      "Beginner Stats #04: Vital": [
         999,
         1008,
         1869,
@@ -36,7 +36,7 @@
         2719,
         2728
       ],
-      "Beginner Stats Series 5: Malign": [
+      "Beginner Stats #05: Malign": [
         997,
         1003,
         1867,
@@ -44,7 +44,7 @@
         2717,
         2723
       ],
-      "Beginner Stats Series 6: Healing": [
+      "Beginner Stats #06: Healing": [
         1000,
         1004,
         1870,
@@ -52,7 +52,7 @@
         2720,
         2724
       ],
-      "Intermediate Stats Series 1: Strong": [
+      "Intermediate Stats #01: Strong": [
         208,
         215,
         229,
@@ -75,11 +75,11 @@
         2759,
         2760
       ],
-      "Intermediate Stats Series 1: Strong -> Carnelian": [
+      "Intermediate Stats #01: Strong -> Carnelian": [
         3808,
         3815
       ],
-      "Intermediate Stats Series 2: Vigorous": [
+      "Intermediate Stats #02: Vigorous": [
         209,
         216,
         230,
@@ -103,11 +103,11 @@
         2761,
         2762
       ],
-      "Intermediate Stats Series 2: Vigorous -> Amethyst": [
+      "Intermediate Stats #02: Vigorous -> Amethyst": [
         3807,
         3814
       ],
-      "Intermediate Stats Series 3: Honed": [
+      "Intermediate Stats #03: Honed": [
         206,
         213,
         227,
@@ -131,11 +131,11 @@
         6323,
         6324
       ],
-      "Intermediate Stats Series 3: Honed -> Peridot": [
+      "Intermediate Stats #03: Honed -> Peridot": [
         3810,
         3817
       ],
-      "Intermediate Stats Series 4: Hunter": [
+      "Intermediate Stats #04: Hunter": [
         207,
         214,
         228,
@@ -159,11 +159,11 @@
         2757,
         2758
       ],
-      "Intermediate Stats Series 4: Hunter -> Sunstone": [
+      "Intermediate Stats #04: Hunter -> Sunstone": [
         3811,
         3818
       ],
-      "Intermediate Stats Series 5: Hearty": [
+      "Intermediate Stats #05: Hearty": [
         210,
         217,
         231,
@@ -187,11 +187,11 @@
         6321,
         6322
       ],
-      "Intermediate Stats Series 5: Hearty -> Lapis": [
+      "Intermediate Stats #05: Hearty -> Lapis": [
         3809,
         3816
       ],
-      "Intermediate Stats Series 6: Ravaging": [
+      "Intermediate Stats #06: Ravaging": [
         204,
         211,
         225,
@@ -215,11 +215,11 @@
         2753,
         2754
       ],
-      "Intermediate Stats Series 6: Ravaging -> Topaz": [
+      "Intermediate Stats #06: Ravaging -> Topaz": [
         3812,
         3819
       ],
-      "Intermediate Stats Series 7: Rejuvenating": [
+      "Intermediate Stats #07: Rejuvenating": [
         205,
         212,
         226,
@@ -243,11 +243,11 @@
         6311,
         6320
       ],
-      "Intermediate Stats Series 7: Rejuvenating -> Spinel": [
+      "Intermediate Stats #07: Rejuvenating -> Spinel": [
         3813,
         3820
       ],
-      "Advanced Stats Series 1: Berserker": [
+      "Advanced Stats #001: Berserker": [
         107,
         114,
         185,
@@ -276,12 +276,12 @@
         2805,
         2806
       ],
-      "Advanced Stats Series 1: Berserker -> Ruby": [
+      "Advanced Stats #001: Berserker -> Ruby": [
         3466,
         3826,
         3833
       ],
-      "Advanced Stats Series 1: Berserker -> Zojja": [
+      "Advanced Stats #001: Berserker -> Zojja": [
         7330,
         7357,
         7389,
@@ -316,7 +316,7 @@
         8180,
         8204,
         8240,
-        8264
+        8264,
         8288,
         8312,
         8336,
@@ -325,7 +325,7 @@
         10577,
         10644
       ],
-      "Advanced Stats Series 2: Soldier -> Ahamid / Chorben": [
+      "Advanced Stats #002: Soldier -> Ahamid / Chorben": [
         7331,
         7358,
         7390,
@@ -369,7 +369,7 @@
         11131,
         11733
       ],
-      "Advanced Stats Series 3: Valkyrie": [
+      "Advanced Stats #003: Valkyrie": [
         108,
         115,
         186,
@@ -398,12 +398,12 @@
         2803,
         2804
       ],
-      "Advanced Stats Series 3: Valkyrie -> Beryl": [
+      "Advanced Stats #003: Valkyrie -> Beryl": [
         3462,
         3822,
         3829
       ],
-      "Advanced Stats Series 3: Valkyrie -> Gobrech / Stonecleaver": [
+      "Advanced Stats #003: Valkyrie -> Gobrech / Stonecleaver": [
         7329,
         7359,
         7391,
@@ -447,7 +447,7 @@
         11080,
         11647
       ],
-      "Advanced Stats Series 4: Rampager": [
+      "Advanced Stats #004: Rampager": [
         109,
         116,
         187,
@@ -476,12 +476,12 @@
         2807,
         2808
       ],
-      "Advanced Stats Series 4: Rampager -> Coral": [
+      "Advanced Stats #004: Rampager -> Coral": [
         3463,
         3823,
         3830
       ],
-      "Advanced Stats Series 4: Rampager -> Forgemaster / Coalforge": [
+      "Advanced Stats #004: Rampager -> Forgemaster / Coalforge": [
         7332,
         7360,
         7392,
@@ -525,7 +525,7 @@
         10299,
         11133
       ],
-      "Advanced Stats Series 5: Assassin": [
+      "Advanced Stats #005: Assassin": [
         106,
         113,
         184,
@@ -554,12 +554,12 @@
         2801,
         2802
       ],
-      "Advanced Stats Series 5: Assassin -> Opal": [
+      "Advanced Stats #005: Assassin -> Opal": [
         3465,
         3825,
         3832
       ],
-      "Advanced Stats Series 5: Assassin -> Saphir / Soros": [
+      "Advanced Stats #005: Assassin -> Saphir / Soros": [
         7333,
         7361,
         7393,
@@ -603,7 +603,7 @@
         10222,
         11465
       ],
-      "Advanced Stats Series 6: Knight": [
+      "Advanced Stats #006: Knight": [
         110,
         117,
         188,
@@ -632,12 +632,12 @@
         6326,
         6327
       ],
-      "Advanced Stats Series 6: Knight -> Emerald": [
+      "Advanced Stats #006: Knight -> Emerald": [
         3464,
         3824,
         3831
       ],
-      "Advanced Stats Series 6: Knight -> Beigarth": [
+      "Advanced Stats #006: Knight -> Beigarth": [
         7336,
         7364,
         7396,
@@ -681,7 +681,7 @@
         10550,
         11625
       ],
-      "Advanced Stats Series 7: Cavalier -> Angchu": [
+      "Advanced Stats #007: Cavalier -> Angchu": [
         7335,
         7363,
         7395,
@@ -725,7 +725,7 @@
         11166,
         11231
       ],
-      "Advanced Stats Series 8: Shaman -> Zintl": [
+      "Advanced Stats #008: Shaman -> Zintl": [
         7337,
         7365,
         7397,
@@ -769,7 +769,7 @@
         10903,
         11470
       ],
-      "Advanced Stats Series 9: Carrion": [
+      "Advanced Stats #009: Carrion": [
         104,
         111,
         182,
@@ -798,12 +798,12 @@
         2797,
         2798
       ],
-      "Advanced Stats Series 9: Carrion -> Chrysocola": [
+      "Advanced Stats #009: Carrion -> Chrysocola": [
         3461,
         3821,
         3828
       ],
-      "Advanced Stats Series 9: Carrion -> Occam": [
+      "Advanced Stats #009: Carrion -> Occam": [
         7323,
         7351,
         7383,
@@ -847,7 +847,7 @@
         11552,
         11676
       ],
-      "Advanced Stats Series 10: Rabid -> Ferratus / Grizzlemouth": [
+      "Advanced Stats #010: Rabid -> Ferratus / Grizzlemouth": [
         7324,
         7352,
         7384,
@@ -891,7 +891,7 @@
         10483,
         11619
       ],
-      "Advanced Stats Series 11: Dire -> Morbach / Mathilde": [
+      "Advanced Stats #011: Dire -> Morbach / Mathilde": [
         7325,
         7353,
         7385,
@@ -935,7 +935,7 @@
         10655,
         10957
       ],
-      "Advanced Stats Series 12: Cleric": [
+      "Advanced Stats #012: Cleric": [
         105,
         112,
         183,
@@ -964,12 +964,12 @@
         2799,
         2800
       ],
-      "Advanced Stats Series 12: Cleric -> Sapphire": [
+      "Advanced Stats #012: Cleric -> Sapphire": [
         3467,
         3827,
         3834
       ],
-      "Advanced Stats Series 12: Cleric -> Tateos / Theodosus": [
+      "Advanced Stats #012: Cleric -> Tateos / Theodosus": [
         7326,
         7354,
         7386,
@@ -1013,7 +1013,7 @@
         10836,
         11406
       ],
-      "Advanced Stats Series 13: Magi -> Hronk": [
+      "Advanced Stats #013: Magi -> Hronk": [
         7327,
         7355,
         7387,
@@ -1057,7 +1057,7 @@
         10608,
         11212
       ],
-      "Advanced Stats Series 14: Apothecary": [
+      "Advanced Stats #014: Apothecary": [
         7009,
         7010,
         7011,
@@ -1071,7 +1071,7 @@
         7033,
         7034
       ],
-      "Advanced Stats Series 14: Apothecary -> Veldrunner / Ebonmane": [
+      "Advanced Stats #014: Apothecary -> Veldrunner / Ebonmane": [
         7328,
         7356,
         7388,
@@ -1792,7 +1792,7 @@
       ]
     },
     "(X0 > LW1) Living World Season 1: Scarlet's War": {
-      "Advanced Stats Series 16: Sentinel -> Wei Qi / Tonn": [
+      "Advanced Stats #016: Sentinel -> Wei Qi / Tonn": [
         7338,
         7366,
         7398,
@@ -1836,11 +1836,11 @@
         10661,
         11437
       ],
-      "Advanced Stats Series 17: Settler": [
+      "Advanced Stats #017: Settler": [
         7342,
         7880
       ],
-      "Advanced Stats Series 17: Settler -> Leftpaw": [
+      "Advanced Stats #017: Settler -> Leftpaw": [
         7334,
         7362,
         7394,
@@ -1884,7 +1884,7 @@
         10727,
         11693
       ],
-      "Advanced Stats Series 18: Celestial": [
+      "Advanced Stats #018: Celestial": [
         7236,
         7237,
         7238,
@@ -1928,13 +1928,13 @@
         7276,
         7277
       ],
-      "Advanced Stats Series 18: Celestial -> Charged Quartz": [
+      "Advanced Stats #018: Celestial -> Charged Quartz": [
         7278,
         7279,
         7280,
         7281
       ],
-      "Advanced Stats Series 18: Celestial -> Wupwup": [
+      "Advanced Stats #018: Celestial -> Wupwup": [
         7322,
         7350,
         7382,
@@ -1978,7 +1978,7 @@
         10289,
         10520
       ],
-      "Advanced Stats Series 19: Zealot": [
+      "Advanced Stats #019: Zealot": [
         8389,
         8390,
         8392,
@@ -2022,13 +2022,13 @@
         8430,
         8431
       ],
-      "Advanced Stats Series 19: Zealot -> Sprocket": [
+      "Advanced Stats #019: Zealot -> Sprocket": [
         8432,
         8433,
         8434,
         8435
       ],
-      "Advanced Stats Series 19: Zealot -> Keeper": [
+      "Advanced Stats #019: Zealot -> Keeper": [
         8369,
         8370,
         8371,
@@ -2139,7 +2139,7 @@
       ]
     },
     "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
-      "Advanced Stats Series 20: Nomad": [
+      "Advanced Stats #020: Nomad": [
         9673,
         9669,
         9677,
@@ -2183,13 +2183,13 @@
         9681,
         9694
       ],
-      "Advanced Stats Series 20: Nomad -> Ambrite": [
+      "Advanced Stats #020: Nomad -> Ambrite": [
         9722,
         9723,
         9724,
         9725
       ],
-      "Advanced Stats Series 20: Nomad -> Ventari": [
+      "Advanced Stats #020: Nomad -> Ventari": [
         9665,
         9666,
         9667,
@@ -2233,7 +2233,7 @@
         10999,
         11278
       ],
-      "Advanced Stats Series 21: Sinister": [
+      "Advanced Stats #021: Sinister": [
         9811,
         9813,
         9816,
@@ -2274,13 +2274,13 @@
         9890,
         9891
       ],
-      "Advanced Stats Series 21: Sinister -> Charged Ambrite": [
+      "Advanced Stats #021: Sinister -> Charged Ambrite": [
         9854,
         9855,
         9856,
         9857
       ],
-      "Advanced Stats Series 21: Sinister -> Verata": [
+      "Advanced Stats #021: Sinister -> Verata": [
         9810,
         9812,
         9817,
@@ -2383,7 +2383,7 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
-      "Advanced Stats Series 22: Commander": [
+      "Advanced Stats #022: Commander": [
         10003,
         10115,
         10123,
@@ -2424,13 +2424,13 @@
         11595,
         11654
       ],
-      "Advanced Stats Series 22: Commander -> Burl": [
+      "Advanced Stats #022: Commander -> Burl": [
         10576,
         10780,
         10880,
         11701
       ],
-      "Advanced Stats Series 22: Commander -> Tizlak": [
+      "Advanced Stats #022: Commander -> Tizlak": [
         9913,
         9977,
         9984,
@@ -2474,14 +2474,14 @@
         12767,
         12772
       ],
-      "Advanced Stats Series 23: Marauder": [
+      "Advanced Stats #023: Marauder": [
         10002,
         11398
       ],
-      "Advanced Stats Series 23: Marauder -> Ebony": [
+      "Advanced Stats #023: Marauder -> Ebony": [
         11481
       ],
-      "Advanced Stats Series 23: Marauder -> Svaard": [
+      "Advanced Stats #023: Marauder -> Svaard": [
         9910,
         9946,
         9974,
@@ -2522,7 +2522,7 @@
         11665,
         11688
       ],
-      "Advanced Stats Series 24: Vigilant": [
+      "Advanced Stats #024: Vigilant": [
         9955,
         9999,
         10009,
@@ -2563,13 +2563,13 @@
         11496,
         11660
       ],
-      "Advanced Stats Series 24: Vigilant -> Flax Blossom": [
+      "Advanced Stats #024: Vigilant -> Flax Blossom": [
         9927,
         1081,
         1090,
         1099
       ],
-      "Advanced Stats Series 24: Vigilant -> Laranthir": [
+      "Advanced Stats #024: Vigilant -> Laranthir": [
         9966,
         9996,
         10035,
@@ -2613,14 +2613,14 @@
         12771,
         12777
       ],
-      "Advanced Stats Series 25: Crusader": [
+      "Advanced Stats #025: Crusader": [
         10492,
         11338
       ],
-      "Advanced Stats Series 25: Crusader -> Agate": [
+      "Advanced Stats #025: Crusader -> Agate": [
         10297
       ],
-      "Advanced Stats Series 25: Crusader -> Ossa": [
+      "Advanced Stats #025: Crusader -> Ossa": [
         9918,
         10001,
         10046,
@@ -2661,7 +2661,7 @@
         11713,
         11731
       ],
-      "Advanced Stats Series 26: Wanderer": [
+      "Advanced Stats #026: Wanderer": [
         9998,
         10040,
         10188,
@@ -2702,13 +2702,13 @@
         11633,
         11697
       ],
-      "Advanced Stats Series 26: Wanderer -> Moonstone": [
+      "Advanced Stats #026: Wanderer -> Moonstone": [
         10256,
         10662,
         10768,
         11444
       ],
-      "Advanced Stats Series 26: Wanderer -> Ruka": [
+      "Advanced Stats #026: Wanderer -> Ruka": [
         9991,
         10022,
         10056,
@@ -2752,7 +2752,7 @@
         12773,
         12782
       ],
-      "Advanced Stats Series 27: Viper": [
+      "Advanced Stats #027: Viper": [
         9987,
         9994,
         10074,
@@ -2793,13 +2793,13 @@
         11680,
         11690
       ],
-      "Advanced Stats Series 27: Viper -> Black Diamond": [
+      "Advanced Stats #027: Viper -> Black Diamond": [
         9930,
         1017,
         1021,
         1093
       ],
-      "Advanced Stats Series 27: Viper -> Yassith": [
+      "Advanced Stats #027: Viper -> Yassith": [
         9935,
         9944,
         10013,
@@ -2843,7 +2843,7 @@
         12781,
         12783
       ],
-      "Advanced Stats Series 28: Trailblazer": [
+      "Advanced Stats #028: Trailblazer": [
         9931,
         9972,
         10032,
@@ -2884,13 +2884,13 @@
         11542,
         11653
       ],
-      "Advanced Stats Series 28: Trailblazer -> Maguuma Lily": [
+      "Advanced Stats #028: Trailblazer -> Maguuma Lily": [
         10224,
         10325,
         10466,
         11315
       ],
-      "Advanced Stats Series 28: Trailblazer -> Pahua": [
+      "Advanced Stats #028: Trailblazer -> Pahua": [
         9915,
         9920,
         9956,
@@ -2931,7 +2931,7 @@
         11687,
         11706
       ],
-      "Advanced Stats Series 29: Minstrel": [
+      "Advanced Stats #029: Minstrel": [
         9912,
         9916,
         9921,
@@ -2972,13 +2972,13 @@
         11699,
         11715
       ],
-      "Advanced Stats Series 29: Minstrel -> Freshwater Pearl": [
+      "Advanced Stats #029: Minstrel -> Freshwater Pearl": [
         10338,
         10497,
         10835,
         11218
       ],
-      "Advanced Stats Series 29: Minstrel -> Maklain": [
+      "Advanced Stats #029: Minstrel -> Maklain": [
         9914,
         9943,
         9963,
@@ -3022,7 +3022,7 @@
         12764,
         12778
       ],
-      "Elite Specialization Series 1": [
+      "Elite Specialization Generation #01": [
         10136,
         10546,
         10748,
@@ -3033,7 +3033,7 @@
         11521,
         11634
       ],
-      "Legendary Weapon Recipe Series 1 - Tier 1": [
+      "Legendary Weapon Generation #01 - Tier 1": [
         9936,
         9957,
         10023,
@@ -3126,7 +3126,7 @@
         11827,
         11832
       ],
-      "Legendary Weapon Recipe Series 1 - Tier 1 > Tier 2": [
+      "Legendary Weapon Generation #01 - Tier 1 > Tier 2": [
         9939,
         9958,
         9978,
@@ -3231,7 +3231,7 @@
         11830,
         11831
       ],
-      "Legendary Weapon Recipe Series 1 - Tier 1 > Tier 2 > Tier 3": [
+      "Legendary Weapon Generation #01 - Tier 1 > Tier 2 > Tier 3": [
         9937,
         9951,
         9969,
@@ -3339,7 +3339,7 @@
         11805,
         11825
       ],
-      "Legendary Weapon Recipe Series 1 - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
+      "Legendary Weapon Generation #01 - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
         10198,
         10262,
         10369,
@@ -3364,7 +3364,7 @@
         11833,
         11834
       ],
-      "Legendary Weapon Recipe Series 2 - Tier 1": [
+      "Legendary Weapon Generation #02 - Tier 1": [
         11847,
         11849,
         11850,
@@ -3397,7 +3397,7 @@
         13160,
         13207
       ],
-      "Legendary Weapon Recipe Series 2 - Tier 1 > Tier 2": [
+      "Legendary Weapon Generation #02 - Tier 1 > Tier 2": [
         11860,
         11884,
         11916,
@@ -3411,7 +3411,7 @@
         13014,
         13163
       ],
-      "Legendary Weapon Recipe Series 2 - Tier 1 > Tier 2 > Tier 3": [
+      "Legendary Weapon Generation #02 - Tier 1 > Tier 2 > Tier 3": [
         11870,
         11886,
         11987,
@@ -3558,7 +3558,7 @@
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Advanced Stats Series 30: Seraph": [
+      "Advanced Stats #030: Seraph": [
         11903,
         11913,
         11915,
@@ -3597,7 +3597,7 @@
         12008,
         12010
       ],
-      "Advanced Stats Series 30: Seraph -> Thackeray": [
+      "Advanced Stats #030: Seraph -> Thackeray": [
         11902,
         11905,
         11908,
@@ -3681,13 +3681,13 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
-      "Advanced Stats Series 31: Harrier -> Brandspark": [
+      "Advanced Stats #031: Harrier -> Brandspark": [
         12142,
         12183,
         12210,
         12279
       ],
-      "Advanced Stats Series 31: Harrier -> Zehtuka": [
+      "Advanced Stats #031: Harrier -> Zehtuka": [
         12320,
         12322,
         12324,
@@ -3728,13 +3728,13 @@
         12426,
         12432
       ],
-      "Advanced Stats Series 32: Grieving -> Mournstone": [
+      "Advanced Stats #032: Grieving -> Mournstone": [
         12458,
         12459,
         12460,
         12461
       ],
-      "Advanced Stats Series 32: Grieving -> The Twins": [
+      "Advanced Stats #032: Grieving -> The Twins": [
         12317,
         12321,
         12325,
@@ -3775,13 +3775,13 @@
         12430,
         12431
       ],
-      "Advanced Stats Series 33: Marshal -> Sunset": [
+      "Advanced Stats #033: Marshal -> Sunset": [
         12151,
         12228,
         12259,
         12277
       ],
-      "Advanced Stats Series 33: Marshal -> Nadijeh": [
+      "Advanced Stats #033: Marshal -> Nadijeh": [
         12316,
         12318,
         12319,
@@ -3822,7 +3822,7 @@
         12428,
         12429
       ],
-      "Elite Specialization Series 2": [
+      "Elite Specialization Generation #02": [
         12080,
         12093,
         12119,
@@ -3960,7 +3960,7 @@
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Advanced Stats Series 35: Plaguedoctor": [
+      "Advanced Stats #035: Plaguedoctor": [
         12673,
         12674,
         12677,
@@ -3999,7 +3999,7 @@
         12750,
         12751
       ],
-      "Advanced Stats Series 35: Plaguedoctor -> Nerashi": [
+      "Advanced Stats #035: Plaguedoctor -> Nerashi": [
         12672,
         12675,
         12676,
@@ -4040,7 +4040,7 @@
         12753,
         12754
       ],
-      "Advanced Stats Series 36: Diviner": [
+      "Advanced Stats #036: Diviner": [
         13012,
         13015,
         13021,
@@ -4081,12 +4081,12 @@
         13127,
         13128
       ],
-      "Advanced Stats Series 36: Diviner -> Serpentite": [
+      "Advanced Stats #036: Diviner -> Serpentite": [
         13046,
         13050,
         13066
       ],
-      "Advanced Stats Series 36: Diviner -> Steelstar": [
+      "Advanced Stats #036: Diviner -> Steelstar": [
         13018,
         13019,
         13020,
@@ -4484,17 +4484,17 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Advanced Stats Series 37: Dragon": [
+      "Advanced Stats #037: Dragon": [
         13736,
         13759
       ],
-      "Advanced Stats Series 37: Dragon -> Jade": [
+      "Advanced Stats #037: Dragon -> Jade": [
         13516,
         13524,
         13559,
         13796
       ],
-      "Advanced Stats Series 37: Dragon -> Suun": [
+      "Advanced Stats #037: Dragon -> Suun": [
         13518,
         13519,
         13522,
@@ -4535,13 +4535,13 @@
         13879,
         13889
       ],
-      "Advanced Stats Series 38: Ritualist -> Polished-Resin": [
+      "Advanced Stats #038: Ritualist -> Polished-Resin": [
         13596,
         13630,
         13641,
         13734
       ],
-      "Advanced Stats Series 38: Ritualist -> Togo": [
+      "Advanced Stats #038: Ritualist -> Togo": [
         13511,
         13512,
         13539,
@@ -4582,7 +4582,7 @@
         13885,
         13890
       ],
-      "Legendary Weapon Recipe Series 3 - Dragon": [
+      "Legendary Weapon Generation #03 - Dragon": [
         13520,
         13532,
         13554,
@@ -4884,7 +4884,7 @@
       "Standalone Recipe": [
       ]
     },
-    "Lunar New Year (LNY)": {
+    "(F1) Lunar New Year (LNY)": {
       "Standalone Recipe -> Nourishment": [
         13508
       ],
@@ -4892,19 +4892,19 @@
         13131
       ]
     },
-    "Super Adventure Festival (SAB)": {
+    "(F2) Super Adventure Festival (SAB)": {
       "Standalone Recipe -> Nourishment": [
         13896
       ]
     },
-    "Dragon Bash": {
+    "(F3) Dragon Bash": {
       "Standalone Recipe -> Enhancement": [
         13236,
         13238,
         13239
       ]
     },
-    "Festival of the Four Winds (FotFW)": {
+    "(F4) Festival of the Four Winds (FotFW)": {
       "Standalone Recipe": [
         9636
       ],
@@ -4913,7 +4913,7 @@
         13498
       ]
     },
-    "Shadow of the Mad King (Halloween)": {
+    "(F5) Shadow of the Mad King (Halloween)": {
       "Candy Corn Enhancement": [
         9805,
         9806,
@@ -4977,8 +4977,8 @@
         6506
       ]
     },
-    "A Very Merry Wintersday": {
-      "Intermediate Stats Series 8: Giver": [
+    "(F6) A Very Merry Wintersday": {
+      "Intermediate Stats #08: Giver": [
         7014,
         7015,
         7016,
@@ -4989,7 +4989,7 @@
         7028,
         7029
       ],
-      "Advanced Stats Series 15: Giver": [
+      "Advanced Stats #015: Giver": [
         6748,
         6749,
         6750,
@@ -5003,7 +5003,7 @@
         7035,
         12576
       ],
-      "Advanced Stats Series 15: Giver -> Tixx": [
+      "Advanced Stats #015: Giver -> Tixx": [
         12517,
         12518,
         12519,
@@ -5044,11 +5044,11 @@
         12637,
         12638
       ],
-      "Advanced Stats Series 34: Bringer": [
+      "Advanced Stats #034: Bringer": [
         7007,
         12625
       ],
-      "Advanced Stats Series 34: Bringer -> Giftbringer": [
+      "Advanced Stats #034: Bringer -> Giftbringer": [
         12524,
         12530,
         12531,

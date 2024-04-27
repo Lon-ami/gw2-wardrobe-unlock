@@ -24,7 +24,7 @@
         855,
         856
       ],
-      "Loot Armor Series 1 - Worn Chain / Studded / Country": [
+      "Loot Armor #01 - Worn Chain / Studded / Country": [
         64,
         18,
         98,
@@ -44,7 +44,7 @@
         40,
         14
       ],
-      "Loot Armor Series 2 - Worn Scale / Swindler / Magician": [
+      "Loot Armor #02 - Worn Scale / Swindler / Magician": [
         34,
         100,
         69,
@@ -64,7 +64,7 @@
         23,
         24
       ],
-      "Loot Armor Series 3 - Reinforced Scale / Privateer / Cabalist": [
+      "Loot Armor #03 - Reinforced Scale / Privateer / Cabalist": [
         49,
         82,
         51,
@@ -84,7 +84,7 @@
         42,
         77
       ],
-      "Loot Armor Series 4 - Banded / Marauder / Conjurer": [
+      "Loot Armor #04 - Banded / Marauder / Conjurer": [
         88,
         90,
         106,
@@ -104,7 +104,7 @@
         55,
         104
       ],
-      "Loot Armor Series 5 - Scallywag / Sneakthief / Seer": [
+      "Loot Armor #05 - Scallywag / Sneakthief / Seer": [
         39,
         9,
         10,
@@ -124,7 +124,7 @@
         27,
         92
       ],
-      "Renown Heart Armor Series 1 - Militia / Rogue / Devout": [
+      "Renown Heart Armor #01 - Militia / Rogue / Devout": [
         874,
         891,
         875,
@@ -145,7 +145,7 @@
         861,
         859
       ],
-      "Renown Heart Armor Series 2 - Pit Fighter / Duelist / Dry Bones": [
+      "Renown Heart Armor #02 - Pit Fighter / Duelist / Dry Bones": [
         882,
         901,
         918,
@@ -165,7 +165,7 @@
         905,
         877
       ],
-      "Renown Heart Armor Series 3 - Studded Plate / Stalker / Stately": [
+      "Renown Heart Armor #03 - Studded Plate / Stalker / Stately": [
         866,
         868,
         885,
@@ -186,7 +186,7 @@
         943,
         858
       ],
-      "Renown Heart Armor Series 4 - Dark Templar / Buccaneer / Primitive": [
+      "Renown Heart Armor #04 - Dark Templar / Buccaneer / Primitive": [
         898,
         930,
         916,
@@ -206,7 +206,7 @@
         911,
         895
       ],
-      "Asura Cultural Armor Series 1 - Galvanic / Protean / Adept": [
+      "Asura Cultural Armor #01 - Galvanic / Protean / Adept": [
         273,
         289,
         263,
@@ -226,7 +226,7 @@
         267,
         303
       ],
-      "Asura Cultural Armor Series 2 - Electroplated / Auxiliary Powered / Genius": [
+      "Asura Cultural Armor #02 - Electroplated / Auxiliary Powered / Genius": [
         293,
         310,
         279,
@@ -246,7 +246,7 @@
         285,
         286
       ],
-      "Asura Cultural Armor Series 3 - Electromagnetic / Prototype / Savant": [
+      "Asura Cultural Armor #03 - Electromagnetic / Prototype / Savant": [
         309,
         294,
         311,
@@ -266,7 +266,7 @@
         300,
         302
       ],
-      "Charr Cultural Armor Series 1 - Warband / Drover / Invoker": [
+      "Charr Cultural Armor #01 - Warband / Drover / Invoker": [
         322,
         324,
         342,
@@ -286,7 +286,7 @@
         332,
         334
       ],
-      "Charr Cultural Armor Series 2 - Legion / Wrangler / Archon": [
+      "Charr Cultural Armor #02 - Legion / Wrangler / Archon": [
         336,
         353,
         346,
@@ -306,7 +306,7 @@
         344,
         330
       ],
-      "Charr Cultural Armor Series 3 - Dreadnought / Trapper / Magus": [
+      "Charr Cultural Armor #03 - Dreadnought / Trapper / Magus": [
         368,
         354,
         356,
@@ -326,7 +326,7 @@
         347,
         364
       ],
-      "Human Cultural Armor Series 1 - Commander / Scout / Researcher": [
+      "Human Cultural Armor #01 - Commander / Scout / Researcher": [
         371,
         372,
         376,
@@ -346,7 +346,7 @@
         380,
         383
       ],
-      "Human Cultural Armor Series 2 - Avenger / Falconer / Aristocrat": [
+      "Human Cultural Armor #02 - Avenger / Falconer / Aristocrat": [
         389,
         393,
         379,
@@ -366,7 +366,7 @@
         390,
         391
       ],
-      "Human Cultural Armor Series 3 - Protector / Assassin / Sorcerer": [
+      "Human Cultural Armor #03 - Protector / Assassin / Sorcerer": [
         422,
         410,
         411,
@@ -386,7 +386,7 @@
         413,
         414
       ],
-      "Norn Cultural Armor Series 1 - Dolyak / Wolfborn / Sheepskin": [
+      "Norn Cultural Armor #01 - Dolyak / Wolfborn / Sheepskin": [
         440,
         442,
         445,
@@ -406,7 +406,7 @@
         427,
         428
       ],
-      "Norn Cultural Armor Series 2 - Eagle / Predatory / Havroun": [
+      "Norn Cultural Armor #02 - Eagle / Predatory / Havroun": [
         448,
         434,
         467,
@@ -426,7 +426,7 @@
         441,
         473
       ],
-      "Norn Cultural Armor Series 3 - Stag / Wolf / Lupine": [
+      "Norn Cultural Armor #03 - Stag / Wolf / Lupine": [
         465,
         470,
         471,
@@ -446,7 +446,7 @@
         459,
         477
       ],
-      "Sylvari Cultural Armor Series 1 - Arborist / Evergreen / Snapdragon": [
+      "Sylvari Cultural Armor #01 - Arborist / Evergreen / Snapdragon": [
         496,
         483,
         500,
@@ -466,7 +466,7 @@
         505,
         490
       ],
-      "Sylvari Cultural Armor Series 2 - Warden / Nightshade / Orchid": [
+      "Sylvari Cultural Armor #02 - Warden / Nightshade / Orchid": [
         512,
         498,
         517,
@@ -486,7 +486,7 @@
         502,
         489
       ],
-      "Sylvari Cultural Armor Series 3 - Oaken / Firstborn / Dryad": [
+      "Sylvari Cultural Armor #03 - Oaken / Firstborn / Dryad": [
         529,
         514,
         532,
@@ -506,7 +506,7 @@
         520,
         507
       ],
-      "Standard Crafting Armor Series 1 - Chain / Seeker / Embroidered": [
+      "Standard Crafting Armor #01 - Chain / Seeker / Embroidered": [
         165,
         153,
         170,
@@ -526,7 +526,7 @@
         207,
         223
       ],
-      "Standard Crafting Armor Series 2 - Scale / Outlaw / Student": [
+      "Standard Crafting Armor #02 - Scale / Outlaw / Student": [
         145,
         166,
         154,
@@ -546,7 +546,7 @@
         210,
         227
       ],
-      "Standard Crafting Armor Series 3 - Splint / Leather / Acolyte": [
+      "Standard Crafting Armor #03 - Splint / Leather / Acolyte": [
         160,
         146,
         147,
@@ -566,7 +566,7 @@
         125,
         126
       ],
-      "Standard Crafting Armor Series 4 - Tempered Scale / Rascal / Winged": [
+      "Standard Crafting Armor #04 - Tempered Scale / Rascal / Winged": [
         183,
         167,
         168,
@@ -586,7 +586,7 @@
         137,
         139
       ],
-      "Standard Crafting Armor Series 5 - Barbaric / Prowler / Feathered": [
+      "Standard Crafting Armor #05 - Barbaric / Prowler / Feathered": [
         177,
         163,
         164,
@@ -606,7 +606,7 @@
         235,
         206
       ],
-      "Standard Crafting Armor Series 6 - Gladiator / Noble / Masquerade": [
+      "Standard Crafting Armor #06 - Gladiator / Noble / Masquerade": [
         228,
         213,
         247,
@@ -626,7 +626,7 @@
         212,
         229
       ],
-      "Standard Crafting Armor Series 7 - Draconic / Emblazoned / Exalted": [
+      "Standard Crafting Armor #07 - Draconic / Emblazoned / Exalted": [
         161,
         162,
         178,
@@ -646,7 +646,7 @@
         138,
         140
       ],
-      "Ascended Default Armor Series - Illustrious": [
+      "Ascended Armor Default - Illustrious": [
         107,
         108,
         109,
@@ -666,7 +666,7 @@
         123,
         124
       ],
-      "Dungeon Series 1: Ascalonian Catacombs (AC) - Ascalonian Protector / Ascalonian Sentry / Ascalonian Performer": [
+      "Dungeon #01: Ascalonian Catacombs (AC) - Ascalonian Protector / Ascalonian Sentry / Ascalonian Performer": [
         611,
         612,
         613,
@@ -686,7 +686,7 @@
         627,
         628
       ],
-      "Dungeon Series 2: Caudecus's Manor (CM) - Council Guard / Council Watch / Council Ministry": [
+      "Dungeon #02: Caudecus's Manor (CM) - Council Guard / Council Watch / Council Ministry": [
         647,
         648,
         649,
@@ -706,7 +706,7 @@
         663,
         664
       ],
-      "Dungeon Series 3: Twilight Arbor (TA) - Nightmare Court": [
+      "Dungeon #03: Twilight Arbor (TA) - Nightmare Court": [
         684,
         685,
         686,
@@ -726,7 +726,7 @@
         700,
         701
       ],
-      "Dungeon Series 4: Sorrow's Embrace (SE) - Forgeman": [
+      "Dungeon #04: Sorrow's Embrace (SE) - Forgeman": [
         672,
         673,
         674,
@@ -746,7 +746,7 @@
         670,
         671
       ],
-      "Dungeon Series 5: Citadel of Flame (CoF) - Flame Legion": [
+      "Dungeon #05: Citadel of Flame (CoF) - Flame Legion": [
         736,
         737,
         720,
@@ -766,7 +766,7 @@
         734,
         735
       ],
-      "Dungeon Series 6: Honor of the Waves (HotW) - Koda": [
+      "Dungeon #06: Honor of the Waves (HotW) - Koda": [
         704,
         705,
         706,
@@ -786,7 +786,7 @@
         702,
         703
       ],
-      "Dungeon Series 7: Crucible of Eternity (CoE) - Inquest": [
+      "Dungeon #07: Crucible of Eternity (CoE) - Inquest": [
         738,
         739,
         740,
@@ -806,7 +806,7 @@
         754,
         755
       ],
-      "Dungeon Series 8: The Ruined City of Arah - Grasping Dead / Accursed / Lich": [
+      "Dungeon #08: The Ruined City of Arah - Grasping Dead / Accursed / Lich": [
         640,
         641,
         642,
@@ -826,7 +826,7 @@
         638,
         639
       ],
-      "Orders of Tyria Series 1: Durmand Priory - Priory's Historical": [
+      "Orders of Tyria #01: Durmand Priory - Priory's Historical": [
         1376,
         1377,
         1378,
@@ -846,7 +846,7 @@
         1392,
         1393
       ],
-      "Orders of Tyria Series 2: Order of Whispers - Whisper's Secret": [
+      "Orders of Tyria #02: Order of Whispers - Whisper's Secret": [
         1412,
         1413,
         1414,
@@ -865,7 +865,7 @@
         1427,
         1428
       ],
-      "Orders of Tyria Series 3: Vigil - Vigil's Honor": [
+      "Orders of Tyria #03: Vigil - Vigil's Honor": [
         1408,
         1409,
         1410,
@@ -1295,7 +1295,7 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
-      "Elite Specialization Series 1": [
+      "Elite Specialization Generation #01": [
         6418,
         6050,
         6183,
@@ -1480,7 +1480,7 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
-      "Elite Specialization Series 2": [
+      "Elite Specialization Generation #02": [
         7441,
         7411,
         7525,
@@ -1815,7 +1815,7 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Elite Specialization Series 3": [
+      "Elite Specialization Generation #03": [
         10297,
         10321,
         10331,
@@ -1983,7 +1983,7 @@
         10261,
         10330,
         10357,
-        10471
+        10471,
         10500,
         10528,
         10455,
@@ -2096,7 +2096,7 @@
       "Standalone Armor": [
       ]
     },
-    "Lunar New Year (LNY)": {
+    "(F1) Lunar New Year (LNY)": {
       "Standalone Armor": [
         9101,
         9108,
@@ -2115,7 +2115,7 @@
         11995
       ]
     },
-    "Super Adventure Festival (SAB)": {
+    "(F2) Super Adventure Festival (SAB)": {
       "Powered": [
         11367,
         11371,
@@ -2150,7 +2150,7 @@
         9357
       ]
     },
-    "Dragon Bash": {
+    "(F3) Dragon Bash": {
       "Holographic Dragon": [
         8817,
         8826,
@@ -2174,7 +2174,7 @@
         2016
       ]
     },
-    "Festival of the Four Winds (FotFW)": {
+    "(F4) Festival of the Four Winds (FotFW)": {
       "Aspect-Touched Zephyrite": [
         8189,
         8190,
@@ -2225,7 +2225,7 @@
         9555
       ]
     },
-    "Shadow of the Mad King (Halloween)": {
+    "(F5) Shadow of the Mad King (Halloween)": {
       "Clawing Shadow": [
         11053,
         11065,
@@ -2297,7 +2297,7 @@
         10134
       ]
     },
-    "A Very Merry Wintersday": {
+    "(F6) A Very Merry Wintersday": {
       "Festive": [
         9062,
         9087,
@@ -2325,7 +2325,7 @@
       ]
     },
     "Bonus Event": {
-      "Anniversary Series 1 - Luminous": [
+      "Anniversary Gifts #01 - Luminous": [
         8288,
         8290,
         8291,
@@ -2346,7 +2346,7 @@
         8284,
         8254
       ],
-      "Anniversary Series 2 - Decade": [
+      "Anniversary Gifts #02 - Decade": [
         10974,
         10976,
         10978,
@@ -2388,7 +2388,7 @@
       ]
     },
     "Wizard's Vault": {
-      "Astral Rewards Armor Series 1 - Sanctified": [
+      "Astral Rewards Armor #01 - Sanctified": [
         11578,
         11611,
         11629,
@@ -2408,7 +2408,7 @@
         11793,
         11796
       ],
-      "Astral Rewards Armor Series 2 - Skysage": [
+      "Astral Rewards Armor #02 - Skysage": [
         12013,
         12014,
         12016,
@@ -2433,7 +2433,7 @@
       ]
     },
     "Black Lion Trading Company (Gem Store)": {
-      "Armor Pack Series 1 - Primeval / Krytan / Profane": [
+      "Armor Pack #01 - Primeval / Krytan / Profane": [
         1105,
         1155,
         1094,
@@ -2453,7 +2453,7 @@
         1102,
         1198
       ],
-      "Armor Pack Series 2 - Aetherblade": [
+      "Armor Pack #02 - Aetherblade": [
         1312,
         1313,
         1314,
@@ -2473,7 +2473,7 @@
         1310,
         1311
       ],
-      "Armor Pack Series 3 - Braham / Magitech / Phoenix": [
+      "Armor Pack #03 - Braham / Magitech / Phoenix": [
         1152,
         1062,
         1095,
@@ -2493,7 +2493,7 @@
         1084,
         1151
       ],
-      "Armor Pack Series 4 - Phalanx / Viper / Trickster": [
+      "Armor Pack #04 - Phalanx / Viper / Trickster": [
         1331,
         1332,
         1333,
@@ -2513,7 +2513,7 @@
         1113,
         1101
       ],
-      "Armor Pack Series 5 - Flamewrath / Flamewalker / Flamekissed": [
+      "Armor Pack #05 - Flamewrath / Flamewalker / Flamekissed": [
         1253,
         1254,
         1255,
@@ -2533,7 +2533,7 @@
         1269,
         1270
       ],
-      "Armor Pack Series 6 - Zodiac": [
+      "Armor Pack #06 - Zodiac": [
         1344,
         1345,
         1346,
@@ -2553,7 +2553,7 @@
         1360,
         1343
       ],
-      "Armor Pack Series 7 - Rampart / Strider / Incarnate": [
+      "Armor Pack #07 - Rampart / Strider / Incarnate": [
         1280,
         1281,
         1276,
