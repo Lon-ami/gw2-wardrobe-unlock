@@ -3276,6 +3276,12 @@
         11795,
         11803
       ],
+      "Eparch": [
+        12158,
+        12173,
+        12187,
+        12192
+      ],
       "Saryx": [
         11574,
         11595,
@@ -3397,17 +3403,34 @@
         11747,
         11879,
         12019,
-        12140,
-        12187,
-        12192
+        12140
       ]
     },
-    "(X5) Guild Wars 2: ???? (????)": {
+    "(X5) Guild Wars 2: Janthir Wilds (JW)": {
+      "Serpent's Wrath": [
+        12217,
+        12222,
+        12231,
+        12232,
+        12233,
+        12234,
+        12240,
+        12247,
+        12249,
+        12250,
+        12251,
+        12257,
+        12259,
+        12264,
+        12265,
+        12273,
+        12278
+      ],
       "Standalone Weapon": [
       ]
     },
     "(F1) Lunar New Year (LNY)": {
-      "Festival Daily Completion #01 - Shining Aureate": [
+      "New Year Daily #01 - Shining Aureate": [
         9095,
         9096,
         9098,
@@ -3425,7 +3448,7 @@
         9127,
         9132
       ],
-      "Festival Daily Completion #01 - Shining Aureate > Fortune-Shining Aureate": [
+      "New Year Daily #01 - Shining Aureate > Fortune-Shining Aureate": [
         9840,
         9847,
         9848,
@@ -3443,7 +3466,7 @@
         9877,
         9885
       ],
-      "Festival Daily Completion #01 - Shining Aureate > Refitted Aureate": [
+      "New Year Daily #01 - Shining Aureate > Refitted Aureate": [
         9832,
         9833,
         9837,
@@ -3461,25 +3484,7 @@
         9886,
         9889
       ],
-      "Festival Weekly Completion #01 - Fortunate": [
-        11984,
-        11985,
-        11986,
-        11987,
-        11989,
-        11997,
-        11998,
-        11999,
-        12000,
-        12001,
-        12002,
-        12004,
-        12005,
-        12008,
-        12009,
-        12010
-      ],
-      "Festival Champion #01 - Firework": [
+      "New Year Champion #01 - Firework": [
         11201,
         11202,
         11203,
@@ -3497,6 +3502,24 @@
         11230,
         11232
       ],
+      "New Year Weekly #01 - Fortunate": [
+        11984,
+        11985,
+        11986,
+        11987,
+        11989,
+        11997,
+        11998,
+        11999,
+        12000,
+        12001,
+        12002,
+        12004,
+        12005,
+        12008,
+        12009,
+        12010
+      ],
       "Lucky Dragon": [
         11991,
         11993,
@@ -3513,7 +3536,7 @@
       ]
     },
     "(F2) Super Adventure Festival (SAB)": {
-      "Festival Daily Completion #02 - Crimson Assassin": [
+      "Super Adventure Box Daily #01 - Crimson Assassin": [
         7169,
         7170,
         7172,
@@ -3531,7 +3554,7 @@
         7166,
         7167
       ],
-      "Festival Daily Completion #02 - Crimson Assassin / Kaiser Snake > Crimson Vanquisher": [
+      "Super Adventure Box Daily #01 - Crimson Assassin / Kaiser Snake > Crimson Vanquisher": [
         9967,
         9968,
         9970,
@@ -3549,25 +3572,7 @@
         9987,
         9988
       ],
-      "Festival Weekly Completion #02 - Golem-Buster": [
-        12108,
-        12109,
-        12110,
-        12111,
-        12112,
-        12114,
-        12115,
-        12120,
-        12121,
-        12122,
-        12123,
-        12124,
-        12125,
-        12126,
-        12128,
-        12131
-      ],
-      "Festival Champion #02 - Hardlight": [
+      "Super Adventure Box Champion #01 - Hardlight": [
         10767,
         10768,
         10771,
@@ -3585,7 +3590,7 @@
         10798,
         10799
       ],
-      "Generation One": [
+      "Super Adventure Box Weekly #01 - Generation One": [
         11364,
         11366,
         11368,
@@ -3602,6 +3607,24 @@
         11396,
         11401,
         11402
+      ],
+      "Super Adventure Box Weekly #02 - Golem-Buster": [
+        12108,
+        12109,
+        12110,
+        12111,
+        12112,
+        12114,
+        12115,
+        12120,
+        12121,
+        12122,
+        12123,
+        12124,
+        12125,
+        12126,
+        12128,
+        12131
       ],
       "Kaiser Snake": [
         6663,
@@ -3707,7 +3730,7 @@
       ]
     },
     "(F3) Dragon Bash": {
-      "Festival Daily Completion #03 - Holographic": [
+      "Dragon Bash Daily #01 - Holographic": [
         8804,
         8805,
         8806,
@@ -3725,7 +3748,7 @@
         8845,
         8846
       ],
-      "Festival Daily Completion #03 - Holographic > Imbued Holographic": [
+      "Dragon Bash Daily #01 - Holographic > Imbued Holographic": [
         9451,
         9453,
         9454,
@@ -3743,7 +3766,25 @@
         9471,
         9473
       ],
-      "Festival Weekly Completion #03 - Dragonrender": [
+      "Dragon Bash Champion #01 - Dragonbone": [
+        10844,
+        10845,
+        10848,
+        10850,
+        10855,
+        10859,
+        10860,
+        10861,
+        10863,
+        10864,
+        10868,
+        10869,
+        10871,
+        10872,
+        10873,
+        10874
+      ],
+      "Dragon Bash Weekly #01 - Dragonrender": [
         11474,
         11475,
         11476,
@@ -3761,23 +3802,29 @@
         11507,
         11508
       ],
-      "Festival Champion #03 - Dragonbone": [
-        10844,
-        10845,
-        10848,
-        10850,
-        10855,
-        10859,
-        10860,
-        10861,
-        10863,
-        10864,
-        10868,
-        10869,
-        10871,
-        10872,
-        10873,
-        10874
+      "Dragon Bash Weekly #02 - Sacred Crystal": [
+        12220,
+        12224,
+        12225,
+        12239,
+        12243,
+        12244,
+        12248,
+        12258,
+        12263,
+        12267,
+        12268,
+        12269,
+        12271,
+        12272,
+        12274,
+        12277,
+        12280
+      ],
+      "Bonfire": [
+        12230,
+        12246,
+        12275
       ],
       "Candy-Packed Dragon": [
         11469,
@@ -3797,7 +3844,7 @@
       ]
     },
     "(F4) Festival of the Four Winds (FotFW)": {
-      "Festival Daily Completion #04 - Zephyrite": [
+      "Four Winds Daily #01 - Zephyrite": [
         8224,
         8232,
         8200,
@@ -3812,7 +3859,7 @@
         8870,
         8874
       ],
-      "Festival Daily Completion #04 - Zephyrite > Sun-Blessed Zephyrite": [
+      "Four Winds Daily #01 - Zephyrite > Sun-Blessed Zephyrite": [
         9537,
         9540,
         9541,
@@ -3827,25 +3874,7 @@
         9557,
         9558
       ],
-      "Festival Weekly Completion #04 - Sun-Grown": [
-        11544,
-        11545,
-        11547,
-        11548,
-        11549,
-        11550,
-        11551,
-        11552,
-        11553,
-        11555,
-        11556,
-        11557,
-        11558,
-        11563,
-        11565,
-        11566
-      ],
-      "Festival Champion #04 - Watchwork": [
+      "Four Winds Champion #01 - Watchwork": [
         10910,
         10913,
         10915,
@@ -3862,6 +3891,24 @@
         10955,
         10958,
         10963
+      ],
+      "Four Winds Weekly #01 - Sun-Grown": [
+        11544,
+        11545,
+        11547,
+        11548,
+        11549,
+        11550,
+        11551,
+        11552,
+        11553,
+        11555,
+        11556,
+        11557,
+        11558,
+        11563,
+        11565,
+        11566
       ],
       "Sovereign": [
         5248,
@@ -3917,7 +3964,7 @@
       ]
     },
     "(F5) Shadow of the Mad King (Halloween)": {
-      "Festival Daily Completion #05 - Haunted": [
+      "Halloween Daily #01 - Haunted": [
         7777,
         7779,
         7785,
@@ -3935,7 +3982,7 @@
         7801,
         7772
       ],
-      "Festival Daily Completion #05 - Haunted > Demon-Haunted": [
+      "Halloween Daily #01 - Haunted > Demon-Haunted": [
         9619,
         9620,
         9622,
@@ -3953,25 +4000,7 @@
         9650,
         9652
       ],
-      "Festival Weekly Completion #05 - Grim Machine": [
-        11847,
-        11848,
-        11851,
-        11852,
-        11853,
-        11854,
-        11855,
-        11856,
-        11859,
-        11860,
-        11861,
-        11866,
-        11868,
-        11869,
-        11870,
-        11872
-      ],
-      "Festival Champion #05 - Chained": [
+      "Halloween Champion #01 - Chained": [
         11054,
         11061,
         11064,
@@ -3988,6 +4017,24 @@
         11093,
         11094,
         11098
+      ],
+      "Halloween Weekly #01 - Grim Machine": [
+        11847,
+        11848,
+        11851,
+        11852,
+        11853,
+        11854,
+        11855,
+        11856,
+        11859,
+        11860,
+        11861,
+        11866,
+        11868,
+        11869,
+        11870,
+        11872
       ],
       "Executioner": [
         11850,
@@ -4041,7 +4088,7 @@
       ]
     },
     "(F6) A Very Merry Wintersday": {
-      "Festival Daily Completion #06 - Wrapped": [
+      "Wintersday Daily #01 - Wrapped": [
         7043,
         7943,
         7948,
@@ -4059,7 +4106,7 @@
         7063,
         7037
       ],
-      "Festival Daily Completion #06 - Wrapped > Sparkling Wrapped": [
+      "Wintersday Daily #01 - Wrapped > Sparkling Wrapped": [
         9730,
         9734,
         9736,
@@ -4077,25 +4124,7 @@
         9787,
         9788
       ],
-      "Festival Weekly Completion #06 - Sacred Solstice": [
-        11937,
-        11938,
-        11940,
-        11942,
-        11944,
-        11945,
-        11953,
-        11954,
-        11958,
-        11964,
-        11965,
-        11967,
-        11969,
-        11973,
-        11975,
-        11976
-      ],
-      "Festival Champion #06 - Snowdrift": [
+      "Wintersday Champion #01 - Snowdrift": [
         11172,
         11173,
         11174,
@@ -4112,6 +4141,24 @@
         11196,
         11197,
         11198
+      ],
+      "Wintersday Weekly #01 - Sacred Solstice": [
+        11937,
+        11938,
+        11940,
+        11942,
+        11944,
+        11945,
+        11953,
+        11954,
+        11958,
+        11964,
+        11965,
+        11967,
+        11969,
+        11973,
+        11975,
+        11976
       ],
       "Candy Cane": [
         8534,
@@ -5953,6 +6000,25 @@
         12208,
         12210
       ],
+      "Black Lion Claim Ticket #084 - Chromatic Assassin": [
+        12218,
+        12223,
+        12228,
+        12229,
+        12235,
+        12236,
+        12237,
+        12238,
+        12241,
+        12242,
+        12253,
+        12254,
+        12255,
+        12260,
+        12261,
+        12266,
+        12279
+      ],
       "Consortium": [
         3764,
         3782,
@@ -6097,7 +6163,8 @@
         11983,
         12021,
         12101,
-        12104
+        12104,
+        12227
       ]
     },
     "Promotional Event": {

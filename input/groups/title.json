@@ -328,7 +328,12 @@
         497,
         499,
         503,
-        515
+        515,
+        526
+      ]
+    },
+    "(X5) Guild Wars 2: Janthir Wilds (JW)": {
+      "Standalone Title": [
       ]
     },
     "(F2) Super Adventure Festival (SAB)": {
@@ -501,7 +506,8 @@
         348,
         351,
         373,
-        400
+        400,
+        527
       ]
     }
   }
