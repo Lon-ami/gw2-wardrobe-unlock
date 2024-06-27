@@ -164,10 +164,12 @@
         342,
         343,
         344,
-        345
+        345,
+        354,
+        355
       ]
     },
-    "(X5) Guild Wars 2: ???? (????)": {
+    "(X5) Guild Wars 2: Janthir Wilds (JW)": {
       "Standalone Novelty": [
       ]
     },
@@ -244,6 +246,7 @@
     },
     "Wizard's Vault": {
       "Standalone Novelty": [
+        350
       ]
     },
     "Black Lion Trading Company (Gem Store)": {
@@ -280,7 +283,15 @@
         323,
         326,
         327,
-        329
+        329,
+        331,
+        333,
+        338,
+        346,
+        347,
+        348,
+        349,
+        353
       ],
       "Standalone Novelty -> Musical Instrument": [
         2,

@@ -715,7 +715,7 @@
       { "name": "Shiverpeaks Mount Pack", "combo": { "mount": [153,154,155,157,158] } },
       { "name": "Mad King Mounts Pack", "combo": { "mount": [222,223,224,225,226] } },
       // Mount -> Raptor
-      { "name": "Amnytas Feathered Raptors Mounts Pack", "combo": { "mount": [] } },
+      { "name": "Amnytas Feathered Raptors Mounts Pack", "combo": { "mount": [550,566,569] } },
       // Mount -> Springer
       { "name": "Canthan Cuckoo Springer Mounts Pack", "combo": { "mount": [422,423,426] } },
       // Mount -> Jackal
@@ -728,7 +728,7 @@
       // Mount -> Skyscale
       { "name": "Skyscale Ascension Mounts Pack", "combo": { "mount": [193,194,195,196,198] } },
       { "name": "Canthan Noble Skyscale Mounts Pack", "combo": { "mount": [443,444,445] } },
-      { "name": "Astral Manticore Skyscale Mounts Pack", "combo": { "mount": [] } },
+      { "name": "Astral Manticore Skyscale Mounts Pack", "combo": { "mount": [589,591,595] } },
       // Mount -> Siege Turtle
       { "name": "Siege Turtle Advent Mounts Pack", "combo": { "mount": [415,416,417,418,419] } }
     ]
@@ -763,8 +763,8 @@
       // Glider + Novelty -> Chair
       { "name": "Inquest Overseer Chair Glider Combo", "combo": { "glider": [73], "novelty": [286] } },
       { "name": "Wandering Cloud Chair and Glider Combo", "combo": { "glider": [97], "novelty": [311] } },
-      { "name": "Gentle Garden Swing Chair Glider Combo", "combo": { "glider": [127], "novelty": [] } },
-      { "name": "Personal Gyrocopter Chair Glider Combo", "combo": { "glider": [128], "novelty": [] } },
+      { "name": "Gentle Garden Swing Chair Glider Combo", "combo": { "glider": [127], "novelty": [346] } },
+      { "name": "Personal Gyrocopter Chair Glider Combo", "combo": { "glider": [128], "novelty": [347] } },
       // Glider + Novelty -> Toy
       { "name": "Electromagnetic Ascender-Descender Glider Combo", "combo": { "glider": [16], "novelty": [27] } },
       { "name": "Magic Carpet Glider Combo", "combo": { "glider": [44], "novelty": [16] } },
@@ -781,7 +781,7 @@
       // Back Item + Miniature
       { "name": "Ghoul Backpack and Mini Set", "combo": { "back": [6431], "mini": [342] } },
       // Mount + Miniature
-      { "name": "Kryptis Skyscale", "combo": { "mount": [], "mini": [905] } },
+      { "name": "Kryptis Skyscale", "combo": { "mount": [580], "mini": [905] } },
       // Miniature Set
       { "name": "Mini Spooky Mounts Pack", "combo": { "mini": [599,605,609,610,611] } },
       { "name": "Mini Cozy Wintersday Mounts Pack", "combo": { "mini": [627,629,631,633,635] } },
@@ -812,7 +812,7 @@
     "name": "combo-emote",
     "contents": [
       // Mount + Emote
-      { "name": "Guild Wars 2: Secrets of the Obscure—Deluxe Upgrade", "combo": { "mount": [], "emote": ["MagicJuggle"] } },
+      { "name": "Guild Wars 2: Secrets of the Obscure—Deluxe Upgrade", "combo": { "mount": [547], "emote": ["MagicJuggle"] } },
       // Novelty + Emote
       { "name": "How to Dance, Volume 1", "combo": { "novelty": [44], "emote": ["geargrind","shuffle","step"] } }
     ]

@@ -3520,6 +3520,8 @@
         12009,
         12010
       ],
+      "New Year Weekly #02 - ????": [
+      ],
       "Lucky Dragon": [
         11991,
         11993,
@@ -3536,7 +3538,7 @@
       ]
     },
     "(F2) Super Adventure Festival (SAB)": {
-      "Super Adventure Box Daily #01 - Crimson Assassin": [
+      "Super Adventure Daily #01 - Crimson Assassin": [
         7169,
         7170,
         7172,
@@ -3554,7 +3556,7 @@
         7166,
         7167
       ],
-      "Super Adventure Box Daily #01 - Crimson Assassin / Kaiser Snake > Crimson Vanquisher": [
+      "Super Adventure Daily #01 - Crimson Assassin / Kaiser Snake > Crimson Vanquisher": [
         9967,
         9968,
         9970,
@@ -3572,7 +3574,7 @@
         9987,
         9988
       ],
-      "Super Adventure Box Champion #01 - Hardlight": [
+      "Super Adventure Champion #01 - Hardlight": [
         10767,
         10768,
         10771,
@@ -3590,7 +3592,7 @@
         10798,
         10799
       ],
-      "Super Adventure Box Weekly #01 - Generation One": [
+      "Super Adventure Weekly #01 - Generation One": [
         11364,
         11366,
         11368,
@@ -3608,7 +3610,7 @@
         11401,
         11402
       ],
-      "Super Adventure Box Weekly #02 - Golem-Buster": [
+      "Super Adventure Weekly #02 - Golem-Buster": [
         12108,
         12109,
         12110,
@@ -3910,6 +3912,8 @@
         11565,
         11566
       ],
+      "Four Winds Weekly #02 - ????": [
+      ],
       "Sovereign": [
         5248,
         5280,
@@ -4036,6 +4040,8 @@
         11870,
         11872
       ],
+      "Halloween Weekly #02 - ????": [
+      ],
       "Executioner": [
         11850,
         11858,
@@ -4143,6 +4149,8 @@
         11198
       ],
       "Wintersday Weekly #01 - Sacred Solstice": [
+      ],
+      "Wintersday Weekly #02 - ????": [
         11937,
         11938,
         11940,
@@ -6164,7 +6172,8 @@
         12021,
         12101,
         12104,
-        12227
+        12227,
+        12284
       ]
     },
     "Promotional Event": {
