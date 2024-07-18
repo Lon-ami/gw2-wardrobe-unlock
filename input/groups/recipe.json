@@ -1,7 +1,7 @@
 {
   "topLevelCategories": {
     "(X0) Guild Wars 2 (GW2)": {
-      "Beginner Stats #01: Mighty": [
+      "Beginner Attribute Sets #01: Mighty": [
         996,
         998,
         1005,
@@ -12,7 +12,7 @@
         2718,
         2725
       ],
-      "Beginner Stats #02: Precise": [
+      "Beginner Attribute Sets #02: Precise": [
         1001,
         1006,
         1871,
@@ -20,7 +20,7 @@
         2721,
         2726
       ],
-      "Beginner Stats #03: Resilient": [
+      "Beginner Attribute Sets #03: Resilient": [
         1002,
         1007,
         1872,
@@ -28,7 +28,7 @@
         2722,
         2727
       ],
-      "Beginner Stats #04: Vital": [
+      "Beginner Attribute Sets #04: Vital": [
         999,
         1008,
         1869,
@@ -36,7 +36,7 @@
         2719,
         2728
       ],
-      "Beginner Stats #05: Malign": [
+      "Beginner Attribute Sets #05: Malign": [
         997,
         1003,
         1867,
@@ -44,7 +44,7 @@
         2717,
         2723
       ],
-      "Beginner Stats #06: Healing": [
+      "Beginner Attribute Sets #06: Healing": [
         1000,
         1004,
         1870,
@@ -52,7 +52,7 @@
         2720,
         2724
       ],
-      "Intermediate Stats #01: Strong": [
+      "Intermediate Attribute Sets #01: Strong": [
         208,
         215,
         229,
@@ -75,11 +75,11 @@
         2759,
         2760
       ],
-      "Intermediate Stats #01: Strong -> Carnelian": [
+      "Intermediate Attribute Sets #01: Strong -> Carnelian": [
         3808,
         3815
       ],
-      "Intermediate Stats #02: Vigorous": [
+      "Intermediate Attribute Sets #02: Vigorous": [
         209,
         216,
         230,
@@ -103,11 +103,11 @@
         2761,
         2762
       ],
-      "Intermediate Stats #02: Vigorous -> Amethyst": [
+      "Intermediate Attribute Sets #02: Vigorous -> Amethyst": [
         3807,
         3814
       ],
-      "Intermediate Stats #03: Honed": [
+      "Intermediate Attribute Sets #03: Honed": [
         206,
         213,
         227,
@@ -131,11 +131,11 @@
         6323,
         6324
       ],
-      "Intermediate Stats #03: Honed -> Peridot": [
+      "Intermediate Attribute Sets #03: Honed -> Peridot": [
         3810,
         3817
       ],
-      "Intermediate Stats #04: Hunter": [
+      "Intermediate Attribute Sets #04: Hunter": [
         207,
         214,
         228,
@@ -159,11 +159,11 @@
         2757,
         2758
       ],
-      "Intermediate Stats #04: Hunter -> Sunstone": [
+      "Intermediate Attribute Sets #04: Hunter -> Sunstone": [
         3811,
         3818
       ],
-      "Intermediate Stats #05: Hearty": [
+      "Intermediate Attribute Sets #05: Hearty": [
         210,
         217,
         231,
@@ -187,11 +187,11 @@
         6321,
         6322
       ],
-      "Intermediate Stats #05: Hearty -> Lapis": [
+      "Intermediate Attribute Sets #05: Hearty -> Lapis": [
         3809,
         3816
       ],
-      "Intermediate Stats #06: Ravaging": [
+      "Intermediate Attribute Sets #06: Ravaging": [
         204,
         211,
         225,
@@ -215,11 +215,11 @@
         2753,
         2754
       ],
-      "Intermediate Stats #06: Ravaging -> Topaz": [
+      "Intermediate Attribute Sets #06: Ravaging -> Topaz": [
         3812,
         3819
       ],
-      "Intermediate Stats #07: Rejuvenating": [
+      "Intermediate Attribute Sets #07: Rejuvenating": [
         205,
         212,
         226,
@@ -243,11 +243,11 @@
         6311,
         6320
       ],
-      "Intermediate Stats #07: Rejuvenating -> Spinel": [
+      "Intermediate Attribute Sets #07: Rejuvenating -> Spinel": [
         3813,
         3820
       ],
-      "Advanced Stats #001: Berserker": [
+      "Advanced Attribute Sets #001: Berserker": [
         107,
         114,
         185,
@@ -276,12 +276,12 @@
         2805,
         2806
       ],
-      "Advanced Stats #001: Berserker -> Ruby": [
+      "Advanced Attribute Sets #001: Berserker -> Ruby": [
         3466,
         3826,
         3833
       ],
-      "Advanced Stats #001: Berserker -> Zojja": [
+      "Advanced Attribute Sets #001: Berserker -> Zojja": [
         7330,
         7357,
         7389,
@@ -325,7 +325,7 @@
         10577,
         10644
       ],
-      "Advanced Stats #002: Soldier -> Ahamid / Chorben": [
+      "Advanced Attribute Sets #002: Soldier -> Ahamid / Chorben": [
         7331,
         7358,
         7390,
@@ -369,7 +369,7 @@
         11131,
         11733
       ],
-      "Advanced Stats #003: Valkyrie": [
+      "Advanced Attribute Sets #003: Valkyrie": [
         108,
         115,
         186,
@@ -398,12 +398,12 @@
         2803,
         2804
       ],
-      "Advanced Stats #003: Valkyrie -> Beryl": [
+      "Advanced Attribute Sets #003: Valkyrie -> Beryl": [
         3462,
         3822,
         3829
       ],
-      "Advanced Stats #003: Valkyrie -> Gobrech / Stonecleaver": [
+      "Advanced Attribute Sets #003: Valkyrie -> Gobrech / Stonecleaver": [
         7329,
         7359,
         7391,
@@ -447,7 +447,7 @@
         11080,
         11647
       ],
-      "Advanced Stats #004: Rampager": [
+      "Advanced Attribute Sets #004: Rampager": [
         109,
         116,
         187,
@@ -476,12 +476,12 @@
         2807,
         2808
       ],
-      "Advanced Stats #004: Rampager -> Coral": [
+      "Advanced Attribute Sets #004: Rampager -> Coral": [
         3463,
         3823,
         3830
       ],
-      "Advanced Stats #004: Rampager -> Forgemaster / Coalforge": [
+      "Advanced Attribute Sets #004: Rampager -> Forgemaster / Coalforge": [
         7332,
         7360,
         7392,
@@ -525,7 +525,7 @@
         10299,
         11133
       ],
-      "Advanced Stats #005: Assassin": [
+      "Advanced Attribute Sets #005: Assassin": [
         106,
         113,
         184,
@@ -554,12 +554,12 @@
         2801,
         2802
       ],
-      "Advanced Stats #005: Assassin -> Opal": [
+      "Advanced Attribute Sets #005: Assassin -> Opal": [
         3465,
         3825,
         3832
       ],
-      "Advanced Stats #005: Assassin -> Saphir / Soros": [
+      "Advanced Attribute Sets #005: Assassin -> Saphir / Soros": [
         7333,
         7361,
         7393,
@@ -603,7 +603,7 @@
         10222,
         11465
       ],
-      "Advanced Stats #006: Knight": [
+      "Advanced Attribute Sets #006: Knight": [
         110,
         117,
         188,
@@ -632,12 +632,12 @@
         6326,
         6327
       ],
-      "Advanced Stats #006: Knight -> Emerald": [
+      "Advanced Attribute Sets #006: Knight -> Emerald": [
         3464,
         3824,
         3831
       ],
-      "Advanced Stats #006: Knight -> Beigarth": [
+      "Advanced Attribute Sets #006: Knight -> Beigarth": [
         7336,
         7364,
         7396,
@@ -681,7 +681,7 @@
         10550,
         11625
       ],
-      "Advanced Stats #007: Cavalier -> Angchu": [
+      "Advanced Attribute Sets #007: Cavalier -> Angchu": [
         7335,
         7363,
         7395,
@@ -725,7 +725,7 @@
         11166,
         11231
       ],
-      "Advanced Stats #008: Shaman -> Zintl": [
+      "Advanced Attribute Sets #008: Shaman -> Zintl": [
         7337,
         7365,
         7397,
@@ -769,7 +769,7 @@
         10903,
         11470
       ],
-      "Advanced Stats #009: Carrion": [
+      "Advanced Attribute Sets #009: Carrion": [
         104,
         111,
         182,
@@ -798,12 +798,12 @@
         2797,
         2798
       ],
-      "Advanced Stats #009: Carrion -> Chrysocola": [
+      "Advanced Attribute Sets #009: Carrion -> Chrysocola": [
         3461,
         3821,
         3828
       ],
-      "Advanced Stats #009: Carrion -> Occam": [
+      "Advanced Attribute Sets #009: Carrion -> Occam": [
         7323,
         7351,
         7383,
@@ -847,7 +847,7 @@
         11552,
         11676
       ],
-      "Advanced Stats #010: Rabid -> Ferratus / Grizzlemouth": [
+      "Advanced Attribute Sets #010: Rabid -> Ferratus / Grizzlemouth": [
         7324,
         7352,
         7384,
@@ -891,7 +891,7 @@
         10483,
         11619
       ],
-      "Advanced Stats #011: Dire -> Morbach / Mathilde": [
+      "Advanced Attribute Sets #011: Dire -> Morbach / Mathilde": [
         7325,
         7353,
         7385,
@@ -935,7 +935,7 @@
         10655,
         10957
       ],
-      "Advanced Stats #012: Cleric": [
+      "Advanced Attribute Sets #012: Cleric": [
         105,
         112,
         183,
@@ -964,12 +964,12 @@
         2799,
         2800
       ],
-      "Advanced Stats #012: Cleric -> Sapphire": [
+      "Advanced Attribute Sets #012: Cleric -> Sapphire": [
         3467,
         3827,
         3834
       ],
-      "Advanced Stats #012: Cleric -> Tateos / Theodosus": [
+      "Advanced Attribute Sets #012: Cleric -> Tateos / Theodosus": [
         7326,
         7354,
         7386,
@@ -1013,7 +1013,7 @@
         10836,
         11406
       ],
-      "Advanced Stats #013: Magi -> Hronk": [
+      "Advanced Attribute Sets #013: Magi -> Hronk": [
         7327,
         7355,
         7387,
@@ -1057,7 +1057,7 @@
         10608,
         11212
       ],
-      "Advanced Stats #014: Apothecary": [
+      "Advanced Attribute Sets #014: Apothecary": [
         7009,
         7010,
         7011,
@@ -1071,7 +1071,7 @@
         7033,
         7034
       ],
-      "Advanced Stats #014: Apothecary -> Veldrunner / Ebonmane": [
+      "Advanced Attribute Sets #014: Apothecary -> Veldrunner / Ebonmane": [
         7328,
         7356,
         7388,
@@ -1792,7 +1792,7 @@
       ]
     },
     "(X0 > LW1) Living World Season 1: Scarlet's War": {
-      "Advanced Stats #016: Sentinel -> Wei Qi / Tonn": [
+      "Advanced Attribute Sets #016: Sentinel -> Wei Qi / Tonn": [
         7338,
         7366,
         7398,
@@ -1836,11 +1836,11 @@
         10661,
         11437
       ],
-      "Advanced Stats #017: Settler": [
+      "Advanced Attribute Sets #017: Settler": [
         7342,
         7880
       ],
-      "Advanced Stats #017: Settler -> Leftpaw": [
+      "Advanced Attribute Sets #017: Settler -> Leftpaw": [
         7334,
         7362,
         7394,
@@ -1884,7 +1884,7 @@
         10727,
         11693
       ],
-      "Advanced Stats #018: Celestial": [
+      "Advanced Attribute Sets #018: Celestial": [
         7236,
         7237,
         7238,
@@ -1928,13 +1928,13 @@
         7276,
         7277
       ],
-      "Advanced Stats #018: Celestial -> Charged Quartz": [
+      "Advanced Attribute Sets #018: Celestial -> Charged Quartz": [
         7278,
         7279,
         7280,
         7281
       ],
-      "Advanced Stats #018: Celestial -> Wupwup": [
+      "Advanced Attribute Sets #018: Celestial -> Wupwup": [
         7322,
         7350,
         7382,
@@ -1978,7 +1978,7 @@
         10289,
         10520
       ],
-      "Advanced Stats #019: Zealot": [
+      "Advanced Attribute Sets #019: Zealot": [
         8389,
         8390,
         8392,
@@ -2022,13 +2022,13 @@
         8430,
         8431
       ],
-      "Advanced Stats #019: Zealot -> Sprocket": [
+      "Advanced Attribute Sets #019: Zealot -> Sprocket": [
         8432,
         8433,
         8434,
         8435
       ],
-      "Advanced Stats #019: Zealot -> Keeper": [
+      "Advanced Attribute Sets #019: Zealot -> Keeper": [
         8369,
         8370,
         8371,
@@ -2139,7 +2139,7 @@
       ]
     },
     "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
-      "Advanced Stats #020: Nomad": [
+      "Advanced Attribute Sets #020: Nomad": [
         9673,
         9669,
         9677,
@@ -2183,13 +2183,13 @@
         9681,
         9694
       ],
-      "Advanced Stats #020: Nomad -> Ambrite": [
+      "Advanced Attribute Sets #020: Nomad -> Ambrite": [
         9722,
         9723,
         9724,
         9725
       ],
-      "Advanced Stats #020: Nomad -> Ventari": [
+      "Advanced Attribute Sets #020: Nomad -> Ventari": [
         9665,
         9666,
         9667,
@@ -2233,7 +2233,7 @@
         10999,
         11278
       ],
-      "Advanced Stats #021: Sinister": [
+      "Advanced Attribute Sets #021: Sinister": [
         9811,
         9813,
         9816,
@@ -2274,13 +2274,13 @@
         9890,
         9891
       ],
-      "Advanced Stats #021: Sinister -> Charged Ambrite": [
+      "Advanced Attribute Sets #021: Sinister -> Charged Ambrite": [
         9854,
         9855,
         9856,
         9857
       ],
-      "Advanced Stats #021: Sinister -> Verata": [
+      "Advanced Attribute Sets #021: Sinister -> Verata": [
         9810,
         9812,
         9817,
@@ -2383,7 +2383,7 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
-      "Advanced Stats #022: Commander": [
+      "Advanced Attribute Sets #022: Commander": [
         10003,
         10115,
         10123,
@@ -2424,13 +2424,13 @@
         11595,
         11654
       ],
-      "Advanced Stats #022: Commander -> Burl": [
+      "Advanced Attribute Sets #022: Commander -> Burl": [
         10576,
         10780,
         10880,
         11701
       ],
-      "Advanced Stats #022: Commander -> Tizlak": [
+      "Advanced Attribute Sets #022: Commander -> Tizlak": [
         9913,
         9977,
         9984,
@@ -2474,14 +2474,14 @@
         12767,
         12772
       ],
-      "Advanced Stats #023: Marauder": [
+      "Advanced Attribute Sets #023: Marauder": [
         10002,
         11398
       ],
-      "Advanced Stats #023: Marauder -> Ebony": [
+      "Advanced Attribute Sets #023: Marauder -> Ebony": [
         11481
       ],
-      "Advanced Stats #023: Marauder -> Svaard": [
+      "Advanced Attribute Sets #023: Marauder -> Svaard": [
         9910,
         9946,
         9974,
@@ -2522,7 +2522,7 @@
         11665,
         11688
       ],
-      "Advanced Stats #024: Vigilant": [
+      "Advanced Attribute Sets #024: Vigilant": [
         9955,
         9999,
         10009,
@@ -2563,13 +2563,13 @@
         11496,
         11660
       ],
-      "Advanced Stats #024: Vigilant -> Flax Blossom": [
+      "Advanced Attribute Sets #024: Vigilant -> Flax Blossom": [
         9927,
         1081,
         1090,
         1099
       ],
-      "Advanced Stats #024: Vigilant -> Laranthir": [
+      "Advanced Attribute Sets #024: Vigilant -> Laranthir": [
         9966,
         9996,
         10035,
@@ -2613,14 +2613,14 @@
         12771,
         12777
       ],
-      "Advanced Stats #025: Crusader": [
+      "Advanced Attribute Sets #025: Crusader": [
         10492,
         11338
       ],
-      "Advanced Stats #025: Crusader -> Agate": [
+      "Advanced Attribute Sets #025: Crusader -> Agate": [
         10297
       ],
-      "Advanced Stats #025: Crusader -> Ossa": [
+      "Advanced Attribute Sets #025: Crusader -> Ossa": [
         9918,
         10001,
         10046,
@@ -2661,7 +2661,7 @@
         11713,
         11731
       ],
-      "Advanced Stats #026: Wanderer": [
+      "Advanced Attribute Sets #026: Wanderer": [
         9998,
         10040,
         10188,
@@ -2702,13 +2702,13 @@
         11633,
         11697
       ],
-      "Advanced Stats #026: Wanderer -> Moonstone": [
+      "Advanced Attribute Sets #026: Wanderer -> Moonstone": [
         10256,
         10662,
         10768,
         11444
       ],
-      "Advanced Stats #026: Wanderer -> Ruka": [
+      "Advanced Attribute Sets #026: Wanderer -> Ruka": [
         9991,
         10022,
         10056,
@@ -2752,7 +2752,7 @@
         12773,
         12782
       ],
-      "Advanced Stats #027: Viper": [
+      "Advanced Attribute Sets #027: Viper": [
         9987,
         9994,
         10074,
@@ -2793,13 +2793,13 @@
         11680,
         11690
       ],
-      "Advanced Stats #027: Viper -> Black Diamond": [
+      "Advanced Attribute Sets #027: Viper -> Black Diamond": [
         9930,
         1017,
         1021,
         1093
       ],
-      "Advanced Stats #027: Viper -> Yassith": [
+      "Advanced Attribute Sets #027: Viper -> Yassith": [
         9935,
         9944,
         10013,
@@ -2843,7 +2843,7 @@
         12781,
         12783
       ],
-      "Advanced Stats #028: Trailblazer": [
+      "Advanced Attribute Sets #028: Trailblazer": [
         9931,
         9972,
         10032,
@@ -2884,13 +2884,13 @@
         11542,
         11653
       ],
-      "Advanced Stats #028: Trailblazer -> Maguuma Lily": [
+      "Advanced Attribute Sets #028: Trailblazer -> Maguuma Lily": [
         10224,
         10325,
         10466,
         11315
       ],
-      "Advanced Stats #028: Trailblazer -> Pahua": [
+      "Advanced Attribute Sets #028: Trailblazer -> Pahua": [
         9915,
         9920,
         9956,
@@ -2931,7 +2931,7 @@
         11687,
         11706
       ],
-      "Advanced Stats #029: Minstrel": [
+      "Advanced Attribute Sets #029: Minstrel": [
         9912,
         9916,
         9921,
@@ -2972,13 +2972,13 @@
         11699,
         11715
       ],
-      "Advanced Stats #029: Minstrel -> Freshwater Pearl": [
+      "Advanced Attribute Sets #029: Minstrel -> Freshwater Pearl": [
         10338,
         10497,
         10835,
         11218
       ],
-      "Advanced Stats #029: Minstrel -> Maklain": [
+      "Advanced Attribute Sets #029: Minstrel -> Maklain": [
         9914,
         9943,
         9963,
@@ -3558,7 +3558,7 @@
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Advanced Stats #030: Seraph": [
+      "Advanced Attribute Sets #030: Seraph": [
         11903,
         11913,
         11915,
@@ -3597,7 +3597,7 @@
         12008,
         12010
       ],
-      "Advanced Stats #030: Seraph -> Thackeray": [
+      "Advanced Attribute Sets #030: Seraph -> Thackeray": [
         11902,
         11905,
         11908,
@@ -3681,13 +3681,13 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
-      "Advanced Stats #031: Harrier -> Brandspark": [
+      "Advanced Attribute Sets #031: Harrier -> Brandspark": [
         12142,
         12183,
         12210,
         12279
       ],
-      "Advanced Stats #031: Harrier -> Zehtuka": [
+      "Advanced Attribute Sets #031: Harrier -> Zehtuka": [
         12320,
         12322,
         12324,
@@ -3728,13 +3728,13 @@
         12426,
         12432
       ],
-      "Advanced Stats #032: Grieving -> Mournstone": [
+      "Advanced Attribute Sets #032: Grieving -> Mournstone": [
         12458,
         12459,
         12460,
         12461
       ],
-      "Advanced Stats #032: Grieving -> The Twins": [
+      "Advanced Attribute Sets #032: Grieving -> The Twins": [
         12317,
         12321,
         12325,
@@ -3775,13 +3775,13 @@
         12430,
         12431
       ],
-      "Advanced Stats #033: Marshal -> Sunset": [
+      "Advanced Attribute Sets #033: Marshal -> Sunset": [
         12151,
         12228,
         12259,
         12277
       ],
-      "Advanced Stats #033: Marshal -> Nadijeh": [
+      "Advanced Attribute Sets #033: Marshal -> Nadijeh": [
         12316,
         12318,
         12319,
@@ -3960,7 +3960,7 @@
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Advanced Stats #035: Plaguedoctor": [
+      "Advanced Attribute Sets #035: Plaguedoctor": [
         12673,
         12674,
         12677,
@@ -3999,7 +3999,7 @@
         12750,
         12751
       ],
-      "Advanced Stats #035: Plaguedoctor -> Nerashi": [
+      "Advanced Attribute Sets #035: Plaguedoctor -> Nerashi": [
         12672,
         12675,
         12676,
@@ -4040,7 +4040,7 @@
         12753,
         12754
       ],
-      "Advanced Stats #036: Diviner": [
+      "Advanced Attribute Sets #036: Diviner": [
         13012,
         13015,
         13021,
@@ -4081,12 +4081,12 @@
         13127,
         13128
       ],
-      "Advanced Stats #036: Diviner -> Serpentite": [
+      "Advanced Attribute Sets #036: Diviner -> Serpentite": [
         13046,
         13050,
         13066
       ],
-      "Advanced Stats #036: Diviner -> Steelstar": [
+      "Advanced Attribute Sets #036: Diviner -> Steelstar": [
         13018,
         13019,
         13020,
@@ -4484,17 +4484,17 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Advanced Stats #037: Dragon": [
+      "Advanced Attribute Sets #037: Dragon": [
         13736,
         13759
       ],
-      "Advanced Stats #037: Dragon -> Jade": [
+      "Advanced Attribute Sets #037: Dragon -> Jade": [
         13516,
         13524,
         13559,
         13796
       ],
-      "Advanced Stats #037: Dragon -> Suun": [
+      "Advanced Attribute Sets #037: Dragon -> Suun": [
         13518,
         13519,
         13522,
@@ -4535,13 +4535,13 @@
         13879,
         13889
       ],
-      "Advanced Stats #038: Ritualist -> Polished-Resin": [
+      "Advanced Attribute Sets #038: Ritualist -> Polished-Resin": [
         13596,
         13630,
         13641,
         13734
       ],
-      "Advanced Stats #038: Ritualist -> Togo": [
+      "Advanced Attribute Sets #038: Ritualist -> Togo": [
         13511,
         13512,
         13539,
@@ -4978,7 +4978,7 @@
       ]
     },
     "(F6) A Very Merry Wintersday": {
-      "Intermediate Stats #08: Giver": [
+      "Intermediate Attribute Sets #08: Giver": [
         7014,
         7015,
         7016,
@@ -4989,7 +4989,7 @@
         7028,
         7029
       ],
-      "Advanced Stats #015: Giver": [
+      "Advanced Attribute Sets #015: Giver": [
         6748,
         6749,
         6750,
@@ -5003,7 +5003,7 @@
         7035,
         12576
       ],
-      "Advanced Stats #015: Giver -> Tixx": [
+      "Advanced Attribute Sets #015: Giver -> Tixx": [
         12517,
         12518,
         12519,
@@ -5044,11 +5044,11 @@
         12637,
         12638
       ],
-      "Advanced Stats #034: Bringer": [
+      "Advanced Attribute Sets #034: Bringer": [
         7007,
         12625
       ],
-      "Advanced Stats #034: Bringer -> Giftbringer": [
+      "Advanced Attribute Sets #034: Bringer -> Giftbringer": [
         12524,
         12530,
         12531,

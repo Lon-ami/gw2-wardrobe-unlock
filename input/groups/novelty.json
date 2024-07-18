@@ -113,14 +113,6 @@
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Racing Tonic": [
-        271,
-        272,
-        273,
-        274,
-        275,
-        276
-      ],
       "Standalone Novelty": [
         86,
         89,
@@ -233,15 +225,23 @@
     "Bonus Event": {
       "Champion's Gizmo": [
       ],
-      "Chest Tonic": [
+      "Community Goal Reward Tonic": [
         283,
         288,
-        304
+        304,
+        308
+      ],
+      "Racing Tonic": [
+        271,
+        272,
+        273,
+        274,
+        275,
+        276
       ],
       "Standalone Novelty": [
         12,
-        289,
-        308
+        289
       ]
     },
     "Wizard's Vault": {

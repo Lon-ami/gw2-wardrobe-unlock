@@ -332,7 +332,6 @@
         724,
         726,
         727,
-        734,
         741,
         742,
         760,
@@ -502,7 +501,8 @@
         832,
         872,
         873,
-        891
+        891,
+        925
       ]
     },
     "(F5) Shadow of the Mad King (Halloween)": {
@@ -612,7 +612,8 @@
         486
       ],
       "Standalone Miniature": [
-        177
+        177,
+        734
       ]
     },
     "Black Lion Trading Company (Gem Store)": {
