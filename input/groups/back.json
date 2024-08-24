@@ -104,8 +104,6 @@
         2376,
         2380,
         5653,
-        6253,
-        6353,
         6621,
         9051
       ]
@@ -273,6 +271,7 @@
     },
     "(X5) Guild Wars 2: Janthir Wilds (JW)": {
       "Standalone Back Item": [
+        12543
       ]
     },
     "(F1) Lunar New Year (LNY)": {
@@ -375,7 +374,7 @@
         12100
       ]
     },
-    "Wizard's Vault": {
+    "Wizard's Vault (WV)": {
       "Standalone Back Item": [
         11903,
         12209
@@ -403,7 +402,6 @@
         2355,
         2365,
         2367,
-        2370,
         2372
       ],
       "Standalone Back Item": [
@@ -541,6 +539,9 @@
     },
     "Promotional Event": {
       "Standalone Back Item": [
+        2370,
+        6253,
+        6353,
         10059,
         10084,
         11070

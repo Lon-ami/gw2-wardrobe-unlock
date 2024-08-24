@@ -10,7 +10,7 @@
         43
       ]
     },
-    "Wizard's Vault": {
+    "Wizard's Vault (WV)": {
       "Standalone Glider": [
         132
       ]
@@ -64,6 +64,9 @@
         104,
         124,
         135
+      ],
+      "Standalone Glider -> Weapon": [
+        136
       ],
       "Standalone Glider -> Back Item": [
         28,
