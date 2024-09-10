@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X0) Guild Wars 2 (GW2)": {
+    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
       "Starter": [
         2
       ],
@@ -64,9 +64,6 @@
         104,
         124,
         135
-      ],
-      "Standalone Glider -> Weapon": [
-        136
       ],
       "Standalone Glider -> Back Item": [
         28,
@@ -151,7 +148,8 @@
         73,
         97,
         127,
-        128
+        128,
+        136
       ],
       "Standalone Glider -> Novelty -> Toy": [
         16,

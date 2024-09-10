@@ -438,12 +438,16 @@
       ]
     },
     "(X5) Guild Wars 2: Janthir Wilds (JW)": {
-      "Standalone Miniature": [
+      "Lowland Kodan": [
         927,
-        928,
         930,
+        932
+      ],
+      "Standalone Miniature": [
+        926,
+        928,
+        929,
         931,
-        932,
         935
       ]
     },

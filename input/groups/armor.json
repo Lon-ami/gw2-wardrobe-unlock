@@ -646,7 +646,7 @@
         138,
         140
       ],
-      "Ascended Armor Default #01 - Illustrious": [
+      "Ascended Armor Default - Illustrious": [
         107,
         108,
         109,
@@ -826,7 +826,27 @@
         638,
         639
       ],
-      "Orders of Tyria #01: Durmand Priory - Priory's Historical": [
+      "Orders of Tyria #01: Vigil - Vigil's Honor": [
+        1408,
+        1409,
+        1410,
+        1411,
+        1394,
+        1395,
+        1396,
+        1397,
+        1398,
+        1399,
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1405,
+        1406,
+        1407
+      ],
+      "Orders of Tyria #02: Durmand Priory - Priory's Historical": [
         1376,
         1377,
         1378,
@@ -846,7 +866,7 @@
         1392,
         1393
       ],
-      "Orders of Tyria #02: Order of Whispers - Whisper's Secret": [
+      "Orders of Tyria #03: Order of Whispers - Whisper's Secret": [
         1412,
         1413,
         1414,
@@ -864,26 +884,6 @@
         1426,
         1427,
         1428
-      ],
-      "Orders of Tyria #03: Vigil - Vigil's Honor": [
-        1408,
-        1409,
-        1410,
-        1411,
-        1394,
-        1395,
-        1396,
-        1397,
-        1398,
-        1399,
-        1400,
-        1401,
-        1402,
-        1403,
-        1404,
-        1405,
-        1406,
-        1407
       ],
       "Apostle / Stalwart / Heavy Scale": [
         1619,
@@ -945,6 +945,14 @@
         884,
         892,
         857
+      ],
+      "Elementalist Eye": [
+        2048,
+        2049,
+        2050,
+        2051
+      ],
+      "Engineer Tool": [
       ],
       "Glorious": [
         5637,
@@ -1009,6 +1017,11 @@
         8531,
         8542
       ],
+      "Guardian Symbol": [,
+        2043,
+        2044,
+        2052
+      ],
       "Guild Archmage / Guild Watchman / Guild Defender": [
         1824,
         1827,
@@ -1025,6 +1038,21 @@
         794,
         795,
         1791
+      ],
+      "Mesmer Mask": [
+        2058,
+        2059,
+        2060
+      ],
+      "Necromancer Masque": [
+        2045,
+        2046,
+        2047
+      ],
+      "Thief Visage": [
+        2055,
+        2056,
+        2057
       ],
       "Tribal": [
         1634,
@@ -1125,24 +1153,8 @@
         1994,
         1995,
         2011,
-        2043,
-        2044,
-        2045,
-        2046,
-        2047,
-        2048,
-        2049,
-        2050,
-        2051,
-        2052,
         2053,
-        2054,
-        2055,
-        2056,
-        2057,
-        2058,
-        2059,
-        2060
+        2054
       ]
     },
     "(X0 > LW1) Living World Season 1: Scarlet's War": {
@@ -1153,6 +1165,8 @@
         10811,
         10815,
         10828
+      ],
+      "Lion Captain": [
       ],
       "Wurmslayer": [
         2000,
@@ -1383,6 +1397,11 @@
         6334,
         6302
       ],
+      "Revenant Blindfold": [
+        5885,
+        5891,
+        5920
+      ],
       "Scale / Barbaric / Gladiator / Draconic > Mistward": [
         6467,
         6519,
@@ -1392,9 +1411,6 @@
         6511
       ],
       "Standalone Armor": [
-        5885,
-        5891,
-        5920,
         6283,
         6456,
         6484,
@@ -2133,7 +2149,6 @@
         12572
       ],
       "Standalone Armor": [
-        11734,
         12439,
         12501,
         12574
@@ -2666,6 +2681,8 @@
         1274,
         1275
       ],
+      "Artisan Zharra": [
+      ],
       "Aspect Eye": [
         8208,
         8194,
@@ -2688,6 +2705,8 @@
         11188,
         11192
       ],
+      "Battlelord": [
+      ],
       "Bestial Tides Tattoo / Fire Bloom Tattoo / Serpentine Tattoo": [
         11258,
         11279,
@@ -2707,6 +2726,14 @@
         11307,
         11308,
         11349
+      ],
+      "Blissful": [
+        12582,
+        12584,
+        12585,
+        12591,
+        12593,
+        12597
       ],
       "Breezy Swim": [
         12282,
@@ -3329,7 +3356,10 @@
         11505,
         11849,
         11863,
-        11864
+        11864,
+        12583,
+        12587,
+        12596
       ],
       "Standalone Armor -> Hand": [
         6700,

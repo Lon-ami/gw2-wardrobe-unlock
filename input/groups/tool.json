@@ -4,14 +4,14 @@
       "Starter": [
         2385,
         2388,
-        2395,
-        10721
+        2395
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
       "Standalone Gathering Tool": [
         10602,
-        10687
+        10687,
+        10721
       ]
     },
     "Black Lion Trading Company (Gem Store)": {
@@ -59,6 +59,11 @@
         11410,
         11412,
         11414
+      ],
+      "Holy Barrage": [
+        12586,
+        12588,
+        12592
       ],
       "Mad Scientist": [
         5884,

@@ -70,28 +70,6 @@
         2378,
         2379
       ],
-      "Fractal Capacitor > Ad Infinitum": [
-        6202,
-        6234,
-        6344,
-        6474
-      ],
-      "Wings of Glory (The Ascension)": [
-        6560,
-        6561,
-        6562,
-        6556,
-        6573,
-        6558
-      ],
-      "Wings of War (Warbringer)": [
-        7248,
-        7252,
-        7256,
-        7272,
-        7276,
-        7246
-      ],
       "Standalone Back Item": [
         2318,
         2325,
@@ -145,20 +123,42 @@
         6361,
         6495
       ],
-      "Orders of Tyria #01: Durmand Priory": [
+      "Orders of Tyria #01: Vigil": [
+        6243,
+        6246,
+        6304
+      ],
+      "Orders of Tyria #02: Durmand Priory": [
         6296,
         6170,
         6379
       ],
-      "Orders of Tyria #02: Order of Whispers": [
+      "Orders of Tyria #03: Order of Whispers": [
         6416,
         6398,
         6159
       ],
-      "Orders of Tyria #03: Vigil": [
-        6243,
-        6246,
-        6304
+      "Fractal Capacitor > Ad Infinitum": [
+        6202,
+        6234,
+        6344,
+        6474
+      ],
+      "Wings of Glory (The Ascension)": [
+        6560,
+        6561,
+        6562,
+        6556,
+        6573,
+        6558
+      ],
+      "Wings of War (Warbringer)": [
+        7248,
+        7252,
+        7256,
+        7272,
+        7276,
+        7246
       ],
       "Standalone Back Item": [
         6135,
