@@ -42,11 +42,6 @@
       ]
     },
     "Bonus Event": {
-      "WvW Rank Dolyak": [
-        30,
-        31,
-        32
-      ],
       "Standalone Finisher": [
         62
       ]
@@ -104,6 +99,11 @@
         49,
         50,
         52
+      ],
+      "WvW Rank Dolyak": [
+        30,
+        31,
+        32
       ]
     }
   }

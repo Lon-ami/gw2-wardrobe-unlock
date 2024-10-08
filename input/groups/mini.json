@@ -553,7 +553,8 @@
         833,
         834,
         874,
-        876
+        876,
+        936
       ]
     },
     "(F6) A Very Merry Wintersday": {
@@ -603,24 +604,6 @@
       ]
     },
     "Bonus Event": {
-      "PvP Tournament #01 - Bronze Llama": [
-        476,
-        479,
-        483,
-        485
-      ],
-      "PvP Tournament #02 - Silver Llama": [
-        477,
-        478,
-        482,
-        487
-      ],
-      "PvP Tournament #03 - Gold Llama": [
-        480,
-        481,
-        484,
-        486
-      ],
       "Standalone Miniature": [
         177,
         734
@@ -1079,6 +1062,24 @@
       ]
     },
     "Promotional Event": {
+      "PvP Tournament #01 - Bronze Llama": [
+        476,
+        479,
+        483,
+        485
+      ],
+      "PvP Tournament #02 - Silver Llama": [
+        477,
+        478,
+        482,
+        487
+      ],
+      "PvP Tournament #03 - Gold Llama": [
+        480,
+        481,
+        484,
+        486
+      ],
       "Funko POP!": [
         792,
         793,

@@ -65,7 +65,6 @@
         5145,
         5179,
         5180,
-        5214,
         5086
       ],
       "Ascalon Loot Weapon #03 - Legionnaire": [
@@ -83,10 +82,8 @@
         5069,
         5133,
         5070,
-        5167,
         5071,
         5074,
-        4984,
         5052,
         5116,
         5053
@@ -100,11 +97,9 @@
         5000,
         5129,
         5001,
-        5004,
         5164,
         5005,
         5008,
-        5170,
         5013,
         5018,
         5019,
@@ -307,7 +302,7 @@
         5118,
         5183
       ],
-      "Cultural Weapon #01 - Adamant Guard": [
+      "Cultural Weapon #01: Black Citadel - Adamant Guard": [
         4321,
         4289,
         4322,
@@ -328,7 +323,7 @@
         4351,
         4319
       ],
-      "Cultural Weapon #02 - Seraph": [
+      "Cultural Weapon #02: Divinity's Reach - Seraph": [
         4352,
         4291,
         4324,
@@ -349,7 +344,7 @@
         4317,
         4285
       ],
-      "Cultural Weapon #03 - Wolfborn": [
+      "Cultural Weapon #03: Hoelbrak - Wolfborn": [
         4293,
         4294,
         4297,
@@ -370,7 +365,7 @@
         4316,
         4286
       ],
-      "Cultural Weapon #04 - Peacemaker": [
+      "Cultural Weapon #04: Rata Sum - Peacemaker": [
         4288,
         4263,
         4296,
@@ -391,7 +386,7 @@
         4350,
         4287
       ],
-      "Cultural Weapon #05 - Warden": [
+      "Cultural Weapon #05: The Grove - Warden": [
         4320,
         4257,
         4258,
@@ -402,7 +397,6 @@
         4261,
         4262,
         4264,
-        4299,
         4269,
         4270,
         4336,
@@ -413,12 +407,11 @@
         4343,
         4314
       ],
-      "Cultural Weapon #06 - Lionguard": [
+      "Cultural Weapon #06: Lion's Arch - Lionguard": [
         4609,
         4611,
         4614,
         4646,
-        4617,
         4650,
         4619,
         4622,
@@ -427,17 +420,15 @@
         4593,
         4627,
         4628,
-        4599,
         4663,
         4601,
         4602,
         4635,
-        4604,
         4636,
         4605,
         4639
       ],
-      "Cultural Weapon #07 - Ebon Vanguard": [
+      "Cultural Weapon #07: Ebonhawke - Ebon Vanguard": [
         4640,
         4610,
         4644,
@@ -452,36 +443,13 @@
         4590,
         4624,
         4657,
-        4597,
         4661,
         4629,
         4598,
-        4985,
         4637,
         4638
       ],
-      "Cultural Weapon #08 - Pirate": [
-        4641,
-        4642,
-        4616,
-        4585,
-        4649,
-        4620,
-        4621,
-        4623,
-        4591,
-        4658,
-        4626,
-        4659,
-        4596,
-        4630,
-        4600,
-        4633,
-        4603,
-        4606,
-        4607
-      ],
-      "Standard Crafting Weapon #001 - Bronze": [
+      "Standard Crafting Weapon #001 - Bronze (Green Wood)": [
         4048,
         4004,
         4005,
@@ -502,7 +470,7 @@
         3883,
         3900
       ],
-      "Standard Crafting Weapon #002 - Iron": [
+      "Standard Crafting Weapon #002 - Iron (Soft Wood)": [
         4000,
         3875,
         4009,
@@ -531,7 +499,6 @@
         3909,
         4070,
         3979,
-        4844,
         3948,
         3949,
         4077,
@@ -546,7 +513,7 @@
         4029,
         3903
       ],
-      "Standard Crafting Weapon #004 - Steel": [
+      "Standard Crafting Weapon #004 - Steel (Seasoned Wood)": [
         5696,
         5697,
         5682,
@@ -588,7 +555,7 @@
         4028,
         3966
       ],
-      "Standard Crafting Weapon #006 - Darksteel": [
+      "Standard Crafting Weapon #006 - Darksteel (Hard Wood)": [
         4049,
         4034,
         4006,
@@ -630,7 +597,7 @@
         3993,
         4095
       ],
-      "Standard Crafting Weapon #008 - Mithril": [
+      "Standard Crafting Weapon #008 - Mithril (Elder Wood)": [
         4081,
         4114,
         4083,
@@ -1563,6 +1530,27 @@
         4731,
         4860
       ],
+      "Pirate": [
+        4641,
+        4642,
+        4616,
+        4585,
+        4649,
+        4620,
+        4621,
+        4623,
+        4591,
+        4658,
+        4626,
+        4659,
+        4596,
+        4630,
+        4600,
+        4633,
+        4603,
+        4606,
+        4607
+      ],
       "Spirit": [
         4784,
         4819,
@@ -1604,8 +1592,6 @@
         4790,
         4697,
         4775,
-        4846,
-        4988,
         4864,
         4867,
         4869,
@@ -1731,7 +1717,6 @@
         4763,
         4766,
         4771,
-        4781,
         4799,
         4834,
         4837,
@@ -1751,6 +1736,17 @@
       ]
     },
     "(X0 > LW1) Living World Season 1: Scarlet's War": {
+      "Aetherized Arsenite / Aetherized Indigo / Aetherized Vermilion": [
+        11103,
+        11107,
+        11114,
+        11127,
+        11130,
+        11131,
+        11138,
+        11139,
+        11140
+      ],
       "Aetherized Nightmare Court": [
         4513,
         4419,
@@ -1768,17 +1764,6 @@
         4504,
         4540,
         4541
-      ],
-      "Aetherized Prototype": [
-        11103,
-        11107,
-        11114,
-        11127,
-        11130,
-        11131,
-        11138,
-        11139,
-        11140
       ],
       "Dragon's Watch Memento": [
         10825,
@@ -2760,6 +2745,9 @@
         9712
       ],
       "Standalone Weapon": [
+        4985,
+        4988,
+        5214,
         8942,
         9014,
         9172,
@@ -4033,7 +4021,24 @@
         11870,
         11872
       ],
-      "Halloween Weekly #02 - ????": [
+      "Halloween Weekly #02 - Candy Core": [
+        12605,
+        12606,
+        12607,
+        12608,
+        12609,
+        12610,
+        12619,
+        12621,
+        12622,
+        12624,
+        12633,
+        12634,
+        12635,
+        12638,
+        12640,
+        12641,
+        12643
       ],
       "Chained": [
         11054,
@@ -4111,6 +4116,11 @@
         9002,
         9003,
         9004
+      ],
+      "Sanguine": [
+        12600,
+        12613,
+        12614
       ],
       "Standalone Weapon": [
         4686,
@@ -6124,6 +6134,25 @@
         12568,
         12570
       ],
+      "Black Lion Claim Ticket #086 - Mystical Beast": [
+        12599,
+        12602,
+        12603,
+        12611,
+        12612,
+        12615,
+        12618,
+        12620,
+        12623,
+        12626,
+        12628,
+        12629,
+        12631,
+        12632,
+        12636,
+        12637,
+        12642
+      ],
       "Consortium": [
         3764,
         3782,
@@ -6277,7 +6306,7 @@
       ]
     },
     "Promotional Event": {
-      "Achievement Points #01 - Zenith": [
+      "Achievement Points Weapon #01 - Zenith": [
         3840,
         3841,
         3842,
@@ -6298,7 +6327,7 @@
         3838,
         3839
       ],
-      "Achievement Points #02 - Pinnacle": [
+      "Achievement Points Weapon #02 - Pinnacle": [
         5664,
         5665,
         5666,
@@ -6319,7 +6348,7 @@
         5662,
         5663
       ],
-      "Heritage": [
+      "Heirloom": [
         4569,
         4570,
         4571,
@@ -6336,6 +6365,20 @@
         4582,
         4583,
         4584
+      ],
+      "Standalone Weapon": [
+        4299,
+        4597,
+        4599,
+        4604,
+        4617,
+        4781,
+        4844,
+        4846,
+        4984,
+        5004,
+        5167,
+        5170
       ]
     }
   }

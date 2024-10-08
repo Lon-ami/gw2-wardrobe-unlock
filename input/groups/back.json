@@ -1,13 +1,13 @@
 {
   "topLevelCategories": {
     "(X0) Guild Wars 2 (GW2)": {
-      "Crafting Discipline #01: Armorsmith": [
-        2304,
-        2305,
-        2308,
-        2279,
-        2301,
-        2303
+      "Crafting Discipline #01: Tailor": [
+        2307,
+        2309,
+        2282,
+        2283,
+        2316,
+        2286
       ],
       "Crafting Discipline #02: Leatherworker": [
         2292,
@@ -17,21 +17,21 @@
         2296,
         2315
       ],
-      "Crafting Discipline #03: Tailor": [
-        2307,
-        2309,
-        2282,
-        2283,
-        2316,
-        2286
+      "Crafting Discipline #03: Armorsmith": [
+        2304,
+        2305,
+        2308,
+        2279,
+        2301,
+        2303
       ],
-      "Crafting Discipline #04: Weaponsmith": [
-        2288,
-        2290,
-        2306,
-        2291,
-        2317,
-        2287
+      "Crafting Discipline #04: Artificer": [
+        2320,
+        2297,
+        2298,
+        2299,
+        2284,
+        2300
       ],
       "Crafting Discipline #05: Huntsman": [
         2321,
@@ -41,13 +41,13 @@
         2311,
         2312
       ],
-      "Crafting Discipline #06: Artificer": [
-        2320,
-        2297,
-        2298,
-        2299,
-        2284,
-        2300
+      "Crafting Discipline #06: Weaponsmith": [
+        2288,
+        2290,
+        2306,
+        2291,
+        2317,
+        2287
       ],
       "Crafting Discipline #07: Jeweler": [
         2276,
@@ -233,20 +233,18 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Club Canach": [
-        10344,
-        10426,
-        10524,
-        10675
-      ],
       "Standalone Back Item": [
         10231,
         10247,
         10271,
+        10344,
         10399,
+        10426,
         10457,
         10458,
+        10524,
         10647,
+        10675,
         10898,
         11322,
         11268
@@ -313,7 +311,7 @@
       ]
     },
     "(F3) Dragon Bash": {
-      "Holographic Wings": [
+      "Standalone Back Item": [
         2351,
         2352,
         8833
@@ -350,7 +348,6 @@
     },
     "(F6) A Very Merry Wintersday": {
       "Standalone Back Item": [
-        2374,
         2375,
         2382,
         2383,
@@ -366,7 +363,6 @@
         6902
       ],
       "Standalone Back Item": [
-        2358,
         6618,
         11025,
         11027,
@@ -385,6 +381,11 @@
         10156,
         10159,
         10161
+      ],
+      "Graceful Bladed Wings": [
+        12630,
+        12639,
+        12644
       ],
       "Mount Baby": [
         7755,
@@ -449,7 +450,8 @@
         11780,
         11941,
         11982,
-        11996
+        11996,
+        12625
       ],
       "Standalone Back Item -> Cape": [
         9050,
@@ -539,7 +541,9 @@
     },
     "Promotional Event": {
       "Standalone Back Item": [
+        2358,
         2370,
+        2374,
         6253,
         6353,
         10059,

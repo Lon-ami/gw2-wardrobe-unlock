@@ -16,10 +16,10 @@
       ]
     },
     "Black Lion Trading Company (Gem Store)": {
-      "Super Adventure": [
-        20,
-        40,
-        41
+      "Graceful Bladed Wings": [
+        137,
+        139,
+        140
       ],
       "Standalone Glider": [
         4,
@@ -32,6 +32,7 @@
         17,
         18,
         19,
+        20,
         21,
         25,
         26,
@@ -43,6 +44,7 @@
         36,
         37,
         38,
+        41,
         46,
         49,
         50,
@@ -67,6 +69,7 @@
       ],
       "Standalone Glider -> Back Item": [
         28,
+        40,
         45,
         47,
         48,
@@ -97,7 +100,8 @@
         125,
         129,
         130,
-        131
+        131,
+        138
       ],
       "Standalone Glider -> Back Item -> Cape": [
         96,
