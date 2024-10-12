@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X2) Guild Wars 2: Path of Fire (PoF)": {
+    "(X2) Path of Fire (PoF)": {
       "Starter": [
         1,
         2,
@@ -9,27 +9,23 @@
         6
       ],
       "Standalone Mount": [
+        103,
         161,
+        186,
         251
       ]
     },
-    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Standalone Mount": [
-        103,
-        186
-      ]
-    },
-    "(X3) Guild Wars 2: End of Dragons (EoD)": {
+    "(X4) End of Dragons (EoD)": {
       "Standalone Mount": [
         397
       ]
     },
-    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+    "(X5) Secrets of the Obscure (SotO)": {
       "Standalone Mount": [
         580
       ]
     },
-    "(X5) Guild Wars 2: Janthir Wilds (JW)": {
+    "(X6) Janthir Wilds (JW)": {
       "Standalone Mount": [
         698
       ]

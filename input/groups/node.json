@@ -2,31 +2,19 @@
   "topLevelCategories": {
     "(X0) Guild Wars 2 (GW2)": {
       "Standalone Node": [
-        "enchanted_treasure_chest"
-      ]
-    },
-    "(X0 > LW1) Living World Season 1: Scarlet's War": {
-      "Standalone Node": [
+        "bandit_chest",
+        "enchanted_treasure_chest",
         "krait_obelisk",
         "sprocket_generator"
       ]
     },
-    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
-      "Standalone Node": [
-        "bandit_chest"
-      ]
-    },
-    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+    "(X1) Heart of Thorns (HoT)": {
       "Standalone Node": [
         "airship_cargo",
         "aurilium_node",
-        "crystallized_supply_cache",
-        "exalted_chest"
-      ]
-    },
-    "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Standalone Node": [
         "bloodstone_crystals",
+        "crystallized_supply_cache",
+        "exalted_chest",
         "jade_fragment",
         "orrian_oyster_node",
         "petrified_stump",
@@ -34,7 +22,7 @@
         "winterberry_bush"
       ]
     },
-    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
+    "(X2) Path of Fire (PoF)": {
       "Standalone Node": [
         "brandstone_node",
         "difluorite_crystal_cluster_node",
@@ -44,7 +32,7 @@
         "mistonium_node"
       ]
     },
-    "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X3) The Icebrood Saga (IBS)": {
       "Standalone Node": [
         "bound_hatched_chili_pepper_node",
         "eternal_ice_shard_node",

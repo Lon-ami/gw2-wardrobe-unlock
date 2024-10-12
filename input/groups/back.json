@@ -70,6 +70,21 @@
         2378,
         2379
       ],
+      "Mawdrey (Vine)": [
+        5544,
+        5545,
+        5532
+      ],
+      "Spinal Blades": [
+        2337,
+        2328,
+        2330,
+        2331,
+        2332,
+        2333,
+        2334,
+        2335
+      ],
       "Standalone Back Item": [
         2318,
         2325,
@@ -83,21 +98,7 @@
         2380,
         5653,
         6621,
-        9051
-      ]
-    },
-    "(X0 > LW1) Living World Season 1: Scarlet's War": {
-      "Spinal Blades": [
-        2337,
-        2328,
-        2330,
-        2331,
-        2332,
-        2333,
-        2334,
-        2335
-      ],
-      "Standalone Back Item": [
+        9051,
         2345,
         2353,
         2354,
@@ -107,14 +108,7 @@
         11118
       ]
     },
-    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
-      "Vine (Mawdrey)": [
-        5544,
-        5545,
-        5532
-      ]
-    },
-    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+    "(X1) Heart of Thorns (HoT)": {
       "Crafting Discipline #09: Scribe": [
         6512,
         6402,
@@ -144,7 +138,15 @@
         6344,
         6474
       ],
-      "Wings of Glory (The Ascension)": [
+      "Relic of the Six Gods": [
+        7296,
+        7319,
+        7303,
+        7289,
+        7321,
+        7323
+      ],
+      "The Ascension (Wings of Glory)": [
         6560,
         6561,
         6562,
@@ -152,7 +154,13 @@
         6573,
         6558
       ],
-      "Wings of War (Warbringer)": [
+      "The Wayfarer's Henge (Druid Stone)": [
+        7209,
+        7216,
+        7214,
+        7218
+      ],
+      "Warbringer (Wings of War)": [
         7248,
         7252,
         7256,
@@ -166,41 +174,21 @@
         6242,
         6279,
         6809,
-        7114
-      ]
-    },
-    "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Druid Stone (The Wayfarer's Henge)": [
-        7209,
-        7216,
-        7214,
-        7218
-      ],
-      "Relic of the Six Gods": [
-        7296,
-        7319,
-        7303,
-        7289,
-        7321,
-        7323
-      ],
-      "Standalone Back Item": [
         6875,
         6956,
         7017,
-        7089
+        7089,
+        7114
       ]
     },
-    "(X2) Guild Wars 2: Path of Fire (PoF)": {
+    "(X2) Path of Fire (PoF)": {
       "Banners of Elona": [
         7458,
         7464,
         7692,
         7631
-      ]
-    },
-    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Inquest (Mark Y Golem)": [
+      ],
+      "Mark Y Golem (Inquest Device)": [
         8057,
         8049,
         8058,
@@ -212,7 +200,7 @@
         8169
       ]
     },
-    "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X3) The Icebrood Saga (IBS)": {
       "Banner of the High Legion": [
         8924,
         8931,
@@ -232,7 +220,7 @@
         9991
       ]
     },
-    "(X3) Guild Wars 2: End of Dragons (EoD)": {
+    "(X4) End of Dragons (EoD)": {
       "Standalone Back Item": [
         10231,
         10247,
@@ -250,7 +238,7 @@
         11268
       ]
     },
-    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+    "(X5) Secrets of the Obscure (SotO)": {
       "Banner of the Bastion of Amnytas": [
         12032,
         12039,
@@ -267,7 +255,7 @@
         12163
       ]
     },
-    "(X5) Guild Wars 2: Janthir Wilds (JW)": {
+    "(X6) Janthir Wilds (JW)": {
       "Standalone Back Item": [
         12543
       ]

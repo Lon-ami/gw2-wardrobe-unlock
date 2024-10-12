@@ -104,6 +104,13 @@
         268,
         320
       ],
+      "The Be-All and the End-All": [
+        207,
+        208,
+        209,
+        211,
+        212
+      ],
       "Ultimate Dominator": [
         70,
         421,
@@ -160,11 +167,7 @@
         359,
         360,
         364,
-        420
-      ]
-    },
-    "(X0 > LW1) Living World Season 1: Scarlet's War": {
-      "Standalone Title": [
+        420,
         131,
         133,
         140,
@@ -174,23 +177,12 @@
         181,
         182,
         226,
-        395
-      ]
-    },
-    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
-      "The Be-All and the End-All": [
-        207,
-        208,
-        209,
-        211,
-        212
-      ],
-      "Standalone Title": [
+        395,
         210,
         213
       ]
     },
-    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+    "(X1) Heart of Thorns (HoT)": {
       "Standalone Title": [
         218,
         219,
@@ -207,11 +199,7 @@
         270,
         275,
         276,
-        277
-      ]
-    },
-    "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Standalone Title": [
+        277,
         246,
         249,
         251,
@@ -222,7 +210,7 @@
         290
       ]
     },
-    "(X2) Guild Wars 2: Path of Fire (PoF)": {
+    "(X2) Path of Fire (PoF)": {
       "Friend of Elona": [
         281,
         283,
@@ -240,11 +228,7 @@
         300,
         314,
         318,
-        328
-      ]
-    },
-    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Standalone Title": [
+        328,
         301,
         302,
         307,
@@ -259,7 +243,7 @@
         325
       ]
     },
-    "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X3) The Icebrood Saga (IBS)": {
       "Standalone Title": [
         345,
         346,
@@ -278,7 +262,7 @@
         369
       ]
     },
-    "(X3) Guild Wars 2: End of Dragons (EoD)": {
+    "(X4) End of Dragons (EoD)": {
       "Cod Swimming Amongst Mere Minnows": [
         374,
         376,
@@ -312,7 +296,7 @@
         399
       ]
     },
-    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+    "(X5) Secrets of the Obscure (SotO)": {
       "Standalone Title": [
         401,
         402,
@@ -332,7 +316,7 @@
         526
       ]
     },
-    "(X5) Guild Wars 2: Janthir Wilds (JW)": {
+    "(X6) Janthir Wilds (JW)": {
       "Standalone Title": [
       ]
     },

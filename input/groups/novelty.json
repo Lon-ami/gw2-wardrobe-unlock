@@ -7,6 +7,24 @@
         179,
         231
       ],
+      "Mordrem Minion Tonic": [
+        81,
+        90,
+        201,
+        243
+      ],
+      "Quaggan Tonic": [
+        88,
+        131,
+        184,
+        200,
+        215
+      ],
+      "Sandstorm Kite": [
+        11,
+        14,
+        48
+      ],
       "Standalone Novelty": [
         12,
         41,
@@ -15,18 +33,7 @@
         147,
         219,
         222,
-        237
-      ]
-    },
-    "(X0 > LW1) Living World Season 1: Scarlet's War": {
-      "Quaggan Tonic": [
-        88,
-        131,
-        184,
-        200,
-        215
-      ],
-      "Standalone Novelty": [
+        237,
         49,
         58,
         64,
@@ -36,29 +43,14 @@
         156,
         173,
         175,
-        325
-      ]
-    },
-    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
-      "Mordrem Minion Tonic": [
-        81,
-        90,
-        201,
-        243
-      ],
-      "Sandstorm Kite": [
-        11,
-        14,
-        48
-      ],
-      "Standalone Novelty": [
+        325,
         117,
         138,
         195,
         230
       ]
     },
-    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+    "(X1) Heart of Thorns (HoT)": {
       "Chak Tonic": [
         102,
         214,
@@ -80,11 +72,7 @@
         198,
         228,
         241,
-        258
-      ]
-    },
-    "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Standalone Novelty": [
+        258,
         92,
         132,
         158,
@@ -93,7 +81,7 @@
         255
       ]
     },
-    "(X2) Guild Wars 2: Path of Fire (PoF)": {
+    "(X2) Path of Fire (PoF)": {
       "Casino Blitz Kite": [
         10,
         17,
@@ -109,11 +97,7 @@
         50,
         69,
         218,
-        285
-      ]
-    },
-    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Standalone Novelty": [
+        285,
         86,
         89,
         233,
@@ -123,7 +107,7 @@
         282
       ]
     },
-    "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X3) The Icebrood Saga (IBS)": {
       "Standalone Novelty": [
         292,
         293,
@@ -131,7 +115,7 @@
         299
       ]
     },
-    "(X3) Guild Wars 2: End of Dragons (EoD)": {
+    "(X4) End of Dragons (EoD)": {
       "Fishing Tonic": [
         335,
         336,
@@ -151,7 +135,7 @@
         332
       ]
     },
-    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+    "(X5) Secrets of the Obscure (SotO)": {
       "Standalone Novelty": [
         342,
         343,
@@ -161,7 +145,7 @@
         355
       ]
     },
-    "(X5) Guild Wars 2: Janthir Wilds (JW)": {
+    "(X6) Janthir Wilds (JW)": {
       "Standalone Novelty": [
         357,
         360,
