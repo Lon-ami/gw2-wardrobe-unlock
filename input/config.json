@@ -782,7 +782,7 @@
         11180,
         11196
       ]
-    },
+    }/*,
     {
       "id": "back",
       "name": "Wardrobe: Back Items",
@@ -821,7 +821,7 @@
         // Zephyrite Box of Dreams
         "82562": [2346,2347,2348]
       }
-    },
+    }*/,
     {
       "id": "tool",
       "name": "Wardrobe: Gathering Tools",

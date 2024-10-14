@@ -217,7 +217,6 @@ var acquisitionMethods = [
 
     //{ id: "armorcombo", name: "Armor Combo", category: "Combo"},
     //{ id: "weaponcombo", name: "Weapon Combo", category: "Combo"},
-    //{ id: "backcombo", name: "Back Item Combo", category: "Combo"},
     //{ id: "toolcombo", name: "Gathering Tool Combo", category: "Combo"},
     //{ id: "glidercombo", name: "Glider Combo", category: "Combo"},
     //{ id: "mountcombo", name: "Mount Combo", category: "Combo"},

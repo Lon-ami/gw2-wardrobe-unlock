@@ -6,6 +6,8 @@
     "name": "combo-armor",
     "contents": [
       // Armor Set
+      { "name": "Artisan Zharra's Cape and Hood Combo", "combo": { "armor": [11418,11419,11431,11435] } },
+      { "name": "Battlelord's Cape Hood Combo", "combo": { "armor": [11143,11144,11150,11151,11158,11162,11167] } },
       { "name": "Savage Scale Package", "combo": { "armor": [11100,11106,11124,11129,11133,11142] } },
       { "name": "Lunar Rabbit Helm and Stompers Package", "combo": { "armor": [11200,11216,11221,11224,11228,11231] } },
       { "name": "Leather Straps Package", "combo": { "armor": [11522,11523,11529,11530,11539,11541] } },
@@ -70,6 +72,7 @@
       { "name": "Decade's Reach", "combo": { "armor": [10981,11005,10974] } },
       { "name": "Decade's Saga", "combo": { "armor": [10982,11026,10995] } },
       { "name": "Decade's Path", "combo": { "armor": [10976,10978,10994] } },
+      { "name": "Decade's War", "combo": { "armor": [11025,11027] } }
       // Armor Set - Dhuum
       { "name": "Headgear of Dhuum", "combo": { "armor": [7872,7889,7905] } },
       { "name": "Shoulders of Dhuum", "combo": { "armor": [7871,7895,7911] } },
@@ -124,6 +127,7 @@
       { "name": "Hellfire Legguards", "combo": { "armor": [5594,5596,5598] } },
       { "name": "Hellfire Greaves", "combo": { "armor": [774,777,769] } },
       // Armor Set - Heretical Scholar
+      { "name": "Heretical Scholar's Cape and Hood Combo", "combo": { "armor": [11936,11977,11956,11966] } },
       { "name": "Heretical Scholar's Pauldrons", "combo": { "armor": [11978,11980,11981] } },
       // Armor Set - Holographic
       { "name": "Holographic Dragon Helm", "combo": { "armor": [8817,8829,8826] } },
@@ -477,6 +481,8 @@
       { "name": "Watchknight Greaves", "combo": { "armor": [10901,10905,10904] } },
       { "name": "Wintersday Snow Boot Box", "combo": { "armor": [11171,11184,11179] } },
       { "name": "Rebel Long and Short Boots Package", "combo": { "armor": [11350,11354,11355,11357,11360,11363] } },
+      // Armor -> Back
+      { "name": "Forest Archer Pack", "combo": { "armor": [10156,10159,10161] } },
       // Armor -> Aquatic Head
       { "name": "Rime-Rimmed Mariner's Rebreather", "combo": { "armor": [9083,9071,9063] } },
       { "name": "Diver's Breather Mask", "combo": { "armor": [8123,8117,8120] } }
@@ -565,27 +571,10 @@
       // Weapon -> Axe
       { "name": "Rival Skies Package", "combo": { "weapon": [7450,7651] } },
       // Weapon -> Scepter
-      { "name": "Queensdale Academy Wand Set", "combo": { "weapon": [9594,9596] } }
-    ]
-  },
-  // ---------------------------------
-  // -------- BACK ITEM COMBO --------
-  // ---------------------------------
-  {
-    "name": "combo-back",
-    "contents": [
-      // Armor Set - Heretical Scholar + Back Item
-      { "name": "Heretical Scholar's Cape and Hood Combo", "combo": { "armor": [11936,11977,11956], "back": [11966] } },
-      // Armor + Back Item
-      { "name": "Battlelord's Cape Hood Combo", "combo": { "armor": [11143,11150,11151,11158,11162,11167], "back": [11144] } },
-      { "name": "Artisan Zharra's Cape and Hood Combo", "combo": { "armor": [11418,11419,11431], "back": [11435] } },
-      // Weapon + Back Item
-      { "name": "Fire-Breathing Package", "combo": { "weapon": [8010], "back": [8021] } },
-      // Back Item Set
-      { "name": "Forest Archer Pack", "combo": { "back": [10156,10159,10161] } },
-      // Back Item
-      { "name": "Decade's War", "combo": { "back": [11025,11027] } }
-    ]
+      { "name": "Queensdale Academy Wand Set", "combo": { "weapon": [9594,9596] } },
+      // Armor + Weapon
+      { "name": "Fire-Breathing Package", "combo": { "armor": [8021], "weapon": [8010] } }
+    ] 
   },
   // --------------------------------------
   // -------- GATHERING TOOL COMBO --------
@@ -617,86 +606,86 @@
   {
     "name": "combo-glider",
     "contents": [
-      // Back Item + Glider
-      { "name": "The Ascension", "combo": { "back": [6561], "glider": [11] } },
-      { "name": "Ad Infinitum", "combo": { "back": [6344], "glider": [22] } },
-      { "name": "Shining Blade Backpack Glider Combo", "combo": { "back": [6854], "glider": [28] } },
-      { "name": "Super Holo-Copter Glider Combo", "combo": { "back": [7200], "glider": [40] } },
-      { "name": "Warbringer", "combo": { "back": [7272], "glider": [43] } },
-      { "name": "Dynamics Exo-Suit Glider Backpack Combo", "combo": { "back": [7285], "glider": [45] } },
-      { "name": "Feathers of the Zephyr Package", "combo": { "back": [7308], "glider": [47] } },
-      { "name": "Largos Fin Backpack Glider Combo", "combo": { "back": [7661], "glider": [48] } },
-      { "name": "Desert King Backpack and Glider Combo", "combo": { "back": [8184], "glider": [52] } },
-      { "name": "Wild Magic Backpack Glider Combo", "combo": { "back": [7811], "glider": [54] } },
-      { "name": "Griffon Hatchling Package", "combo": { "back": [7996], "glider": [56] } },
-      { "name": "Forged Backpack and Glider Combo", "combo": { "back": [8038], "glider": [57] } },
-      { "name": "Jeweled Scarab Package", "combo": { "back": [8141], "glider": [60] } },
-      { "name": "Etherbound Package", "combo": { "back": [8638], "glider": [68] } },
-      { "name": "Legion Jetpack Backpack Glider Combo", "combo": { "back": [8647], "glider": [69] } },
-      { "name": "Branded Relic Package", "combo": { "back": [8725], "glider": [70] } },
-      { "name": "Dragon Fireworks Package", "combo": { "back": [8807], "glider": [72] } },
-      { "name": "Citadel Assault Backpack and Glider Combo", "combo": { "back": [8930], "glider": [79] } },
-      { "name": "Shiverpeaks Hunter Backpack Glider Combo", "combo": { "back": [9021], "glider": [81] } },
-      { "name": "Alchemist Backpack and Glider Combo", "combo": { "back": [9211], "glider": [85] } },
-      { "name": "Spellforged Glider Backpack Combo", "combo": { "back": [9474], "glider": [90] } },
-      { "name": "Volcanic Backpack and Glider Combo", "combo": { "back": [9671], "glider": [94] } },
-      { "name": "Shrine Guardian Backpack and Glider Combo", "combo": { "back": [9769], "glider": [95] } },
-      { "name": "Eternal Mandala Backpack and Glider Combo", "combo": { "back": [9893], "glider": [98] } },
-      { "name": "Giant Shuriken Backpack and Glider Combo", "combo": { "back": [9969], "glider": [99] } },
-      { "name": "Elemental Fury Backpack and Glider Combo", "combo": { "back": [10010], "glider": [102] } },
-      { "name": "Lunar Backpack and Glider Combo", "combo": { "back": [10219], "glider": [109] } },
-      { "name": "Canthan Spiritualist Backpack and Glider Combo", "combo": { "back": [10503], "glider": [110] } },
-      { "name": "Thousand Seas Gourd Backpack and Glider Combo", "combo": { "back": [10805], "glider": [111] } },
-      { "name": "Jade Tech Jetpack Backpack and Glider Combo", "combo": { "back": [10941], "glider": [116] } },
-      { "name": "Umbral Serpent Backpack and Glider Combo", "combo": { "back": [11051], "glider": [118] } },
-      { "name": "Cuddly Cat Backpack and Glider Combo", "combo": { "back": [11428], "glider": [123] } },
-      { "name": "Infernal Envoy Backpack and Glider Combo", "combo": { "back": [11780], "glider": [125] } },
-      { "name": "Giant Folding Fan Backpack and Glider Combo", "combo": { "back": [11941], "glider": [129] } },
-      { "name": "Arcane Sigil Backpack and Glider Combo", "combo": { "back": [11982], "glider": [130] } },
-      { "name": "Elegant Noble's Glider Combo", "combo": { "back": [11996], "glider": [131] } },
-      // Back Item + Glider -> Cape
-      { "name": "Shimmering Aurora Cape and Glider Combo", "combo": { "back": [9732], "glider": [96] } },
-      { "name": "New Kaineng Cape and Glider Combo", "combo": { "back": [10888], "glider": [114] } },
-      { "name": "Undying Shackles Cape and Glider Combo", "combo": { "back": [11400], "glider": [122] } },
-      { "name": "Sorcerer's Cape Backpack and Glider Combo", "combo": { "back": [11716], "glider": [126] } },
-      { "name": "Abyss Hunter Cape Backpack and Glider Combo", "combo": { "back": [12113], "glider": [134] } },
-      // Back Item + Glider -> Wings
-      { "name": "Black Wings Glider Combo", "combo": { "back": [5878], "glider": [1] } },
-      { "name": "White Wings Glider Combo", "combo": { "back": [6035], "glider": [3] } },
-      { "name": "Bat Wings Glider Combo", "combo": { "back": [6412], "glider": [6] } },
-      { "name": "Golden Feather Wings Glider Combo", "combo": { "back": [6527], "glider": [8] } },
-      { "name": "Hawk Wings Glider Combo", "combo": { "back": [6615], "glider": [13] } },
-      { "name": "Wings of Love Backpack Glider Combo", "combo": { "back": [8627], "glider": [15] } },
-      { "name": "Macaw Wings Glider Combo", "combo": { "back": [6744], "glider": [23] } },
-      { "name": "Moth Wings Glider Combo", "combo": { "back": [6774], "glider": [24] } },
-      { "name": "Mursaat Backpack Glider Combo", "combo": { "back": [6965], "glider": [30] } },
-      { "name": "Crystalline Dragon Wings Backpack Glider Combo", "combo": { "back": [7004], "glider": [34] } },
-      { "name": "Vine-Touched Destroyer Glider Combo", "combo": { "back": [7202], "glider": [42] } },
-      { "name": "Branded Wing Backpack and Glider Combo", "combo": { "back": [7743], "glider": [51] } },
-      { "name": "Scaled Dragon Wings Backpack Glider Combo", "combo": { "back": [8434], "glider": [63] } },
-      { "name": "Lightbinder Blades Backpack and Glider Combo", "combo": { "back": [8883], "glider": [75] } },
-      { "name": "Watchwork Wings Package", "combo": { "back": [8915], "glider": [77] } },
-      { "name": "Skeletal Wings Backpack and Glider Combo", "combo": { "back": [8979], "glider": [80] } },
-      { "name": "Starlight Wings Backpack and Glider Combo", "combo": { "back": [9061], "glider": [83] } },
-      { "name": "Dreamwalker Wings Backpack and Glider Combo", "combo": { "back": [9298], "glider": [86] } },
-      { "name": "Draconic Wings Backpack and Glider Combo", "combo": { "back": [9364], "glider": [87] } },
-      { "name": "Tanglewood Backpack and Glider Combo", "combo": { "back": [9450], "glider": [89] } },
-      { "name": "Vermilion Wings Backpack and Glider Combo", "combo": { "back": [9481], "glider": [91] } },
-      { "name": "Stained Glass Wings Backpack and Glider Combo", "combo": { "back": [9617], "glider": [92] } },
-      { "name": "Nightspeaker Wings Backpack and Glider Combo", "combo": { "back": [9659], "glider": [93] } },
-      { "name": "Seraph Wings Backpack and Glider Combo", "combo": { "back": [9992], "glider": [100] } },
-      { "name": "Cute Demon Wings Backpack and Glider Combo", "combo": { "back": [9999], "glider": [101] } },
-      { "name": "Archdemon Wings Backpack and Glider Combo", "combo": { "back": [10045], "glider": [103] } },
-      { "name": "Cute Angel Wings Backpack and Glider Combo", "combo": { "back": [10079], "glider": [105] } },
-      { "name": "Sylph Wings Backpack and Glider Combo", "combo": { "back": [10105], "glider": [106] } },
-      { "name": "Venombite Wings Backpack and Glider Combo", "combo": { "back": [10149], "glider": [107] } },
-      { "name": "Aurene Wings Backpack and Glider Combo", "combo": { "back": [10200], "glider": [108] } },
-      { "name": "Jade Tech Wings Backpack and Glider Combo", "combo": { "back": [10823], "glider": [112] } },
-      { "name": "Water Dragon Wings Backpack and Glider Combo", "combo": { "back": [10912], "glider": [117] } },
-      { "name": "Lightning Wings Backpack and Glider Combo", "combo": { "back": [11125], "glider": [119] } },
-      { "name": "Canthan Phoenix Wings Backpack and Glider Combo", "combo": { "back": [11246], "glider": [120] } },
-      { "name": "Equinox Wings Backpack and Glider Combo", "combo": { "back": [11253], "glider": [121] } },
-      { "name": "Shattered Stone Wings Backpack and Glider Combo", "combo": { "back": [12103], "glider": [133] } }
+      // Armor + Glider
+      { "name": "The Ascension", "combo": { "armor": [6561], "glider": [11] } },
+      { "name": "Ad Infinitum", "combo": { "armor": [6344], "glider": [22] } },
+      { "name": "Shining Blade Backpack Glider Combo", "combo": { "armor": [6854], "glider": [28] } },
+      { "name": "Super Holo-Copter Glider Combo", "combo": { "armor": [7200], "glider": [40] } },
+      { "name": "Warbringer", "combo": { "armor": [7272], "glider": [43] } },
+      { "name": "Dynamics Exo-Suit Glider Backpack Combo", "combo": { "armor": [7285], "glider": [45] } },
+      { "name": "Feathers of the Zephyr Package", "combo": { "armor": [7308], "glider": [47] } },
+      { "name": "Largos Fin Backpack Glider Combo", "combo": { "armor": [7661], "glider": [48] } },
+      { "name": "Desert King Backpack and Glider Combo", "combo": { "armor": [8184], "glider": [52] } },
+      { "name": "Wild Magic Backpack Glider Combo", "combo": { "armor": [7811], "glider": [54] } },
+      { "name": "Griffon Hatchling Package", "combo": { "armor": [7996], "glider": [56] } },
+      { "name": "Forged Backpack and Glider Combo", "combo": { "armor": [8038], "glider": [57] } },
+      { "name": "Jeweled Scarab Package", "combo": { "armor": [8141], "glider": [60] } },
+      { "name": "Etherbound Package", "combo": { "armor": [8638], "glider": [68] } },
+      { "name": "Legion Jetpack Backpack Glider Combo", "combo": { "armor": [8647], "glider": [69] } },
+      { "name": "Branded Relic Package", "combo": { "armor": [8725], "glider": [70] } },
+      { "name": "Dragon Fireworks Package", "combo": { "armor": [8807], "glider": [72] } },
+      { "name": "Citadel Assault Backpack and Glider Combo", "combo": { "armor": [8930], "glider": [79] } },
+      { "name": "Shiverpeaks Hunter Backpack Glider Combo", "combo": { "armor": [9021], "glider": [81] } },
+      { "name": "Alchemist Backpack and Glider Combo", "combo": { "armor": [9211], "glider": [85] } },
+      { "name": "Spellforged Glider Backpack Combo", "combo": { "armor": [9474], "glider": [90] } },
+      { "name": "Volcanic Backpack and Glider Combo", "combo": { "armor": [9671], "glider": [94] } },
+      { "name": "Shrine Guardian Backpack and Glider Combo", "combo": { "armor": [9769], "glider": [95] } },
+      { "name": "Eternal Mandala Backpack and Glider Combo", "combo": { "armor": [9893], "glider": [98] } },
+      { "name": "Giant Shuriken Backpack and Glider Combo", "combo": { "armor": [9969], "glider": [99] } },
+      { "name": "Elemental Fury Backpack and Glider Combo", "combo": { "armor": [10010], "glider": [102] } },
+      { "name": "Lunar Backpack and Glider Combo", "combo": { "armor": [10219], "glider": [109] } },
+      { "name": "Canthan Spiritualist Backpack and Glider Combo", "combo": { "armor": [10503], "glider": [110] } },
+      { "name": "Thousand Seas Gourd Backpack and Glider Combo", "combo": { "armor": [10805], "glider": [111] } },
+      { "name": "Jade Tech Jetpack Backpack and Glider Combo", "combo": { "armor": [10941], "glider": [116] } },
+      { "name": "Umbral Serpent Backpack and Glider Combo", "combo": { "armor": [11051], "glider": [118] } },
+      { "name": "Cuddly Cat Backpack and Glider Combo", "combo": { "armor": [11428], "glider": [123] } },
+      { "name": "Infernal Envoy Backpack and Glider Combo", "combo": { "armor": [11780], "glider": [125] } },
+      { "name": "Giant Folding Fan Backpack and Glider Combo", "combo": { "armor": [11941], "glider": [129] } },
+      { "name": "Arcane Sigil Backpack and Glider Combo", "combo": { "armor": [11982], "glider": [130] } },
+      { "name": "Elegant Noble's Glider Combo", "combo": { "armor": [11996], "glider": [131] } },
+      // Armor + Glider -> Cape
+      { "name": "Shimmering Aurora Cape and Glider Combo", "combo": { "armor": [9732], "glider": [96] } },
+      { "name": "New Kaineng Cape and Glider Combo", "combo": { "armor": [10888], "glider": [114] } },
+      { "name": "Undying Shackles Cape and Glider Combo", "combo": { "armor": [11400], "glider": [122] } },
+      { "name": "Sorcerer's Cape Backpack and Glider Combo", "combo": { "armor": [11716], "glider": [126] } },
+      { "name": "Abyss Hunter Cape Backpack and Glider Combo", "combo": { "armor": [12113], "glider": [134] } },
+      // Armor + Glider -> Wings
+      { "name": "Black Wings Glider Combo", "combo": { "armor": [5878], "glider": [1] } },
+      { "name": "White Wings Glider Combo", "combo": { "armor": [6035], "glider": [3] } },
+      { "name": "Bat Wings Glider Combo", "combo": { "armor": [6412], "glider": [6] } },
+      { "name": "Golden Feather Wings Glider Combo", "combo": { "armor": [6527], "glider": [8] } },
+      { "name": "Hawk Wings Glider Combo", "combo": { "armor": [6615], "glider": [13] } },
+      { "name": "Wings of Love Backpack Glider Combo", "combo": { "armor": [8627], "glider": [15] } },
+      { "name": "Macaw Wings Glider Combo", "combo": { "armor": [6744], "glider": [23] } },
+      { "name": "Moth Wings Glider Combo", "combo": { "armor": [6774], "glider": [24] } },
+      { "name": "Mursaat Backpack Glider Combo", "combo": { "armor": [6965], "glider": [30] } },
+      { "name": "Crystalline Dragon Wings Backpack Glider Combo", "combo": { "armor": [7004], "glider": [34] } },
+      { "name": "Vine-Touched Destroyer Glider Combo", "combo": { "armor": [7202], "glider": [42] } },
+      { "name": "Branded Wing Backpack and Glider Combo", "combo": { "armor": [7743], "glider": [51] } },
+      { "name": "Scaled Dragon Wings Backpack Glider Combo", "combo": { "armor": [8434], "glider": [63] } },
+      { "name": "Lightbinder Blades Backpack and Glider Combo", "combo": { "armor": [8883], "glider": [75] } },
+      { "name": "Watchwork Wings Package", "combo": { "armor": [8915], "glider": [77] } },
+      { "name": "Skeletal Wings Backpack and Glider Combo", "combo": { "armor": [8979], "glider": [80] } },
+      { "name": "Starlight Wings Backpack and Glider Combo", "combo": { "armor": [9061], "glider": [83] } },
+      { "name": "Dreamwalker Wings Backpack and Glider Combo", "combo": { "armor": [9298], "glider": [86] } },
+      { "name": "Draconic Wings Backpack and Glider Combo", "combo": { "armor": [9364], "glider": [87] } },
+      { "name": "Tanglewood Backpack and Glider Combo", "combo": { "armor": [9450], "glider": [89] } },
+      { "name": "Vermilion Wings Backpack and Glider Combo", "combo": { "armor": [9481], "glider": [91] } },
+      { "name": "Stained Glass Wings Backpack and Glider Combo", "combo": { "armor": [9617], "glider": [92] } },
+      { "name": "Nightspeaker Wings Backpack and Glider Combo", "combo": { "armor": [9659], "glider": [93] } },
+      { "name": "Seraph Wings Backpack and Glider Combo", "combo": { "armor": [9992], "glider": [100] } },
+      { "name": "Cute Demon Wings Backpack and Glider Combo", "combo": { "armor": [9999], "glider": [101] } },
+      { "name": "Archdemon Wings Backpack and Glider Combo", "combo": { "armor": [10045], "glider": [103] } },
+      { "name": "Cute Angel Wings Backpack and Glider Combo", "combo": { "armor": [10079], "glider": [105] } },
+      { "name": "Sylph Wings Backpack and Glider Combo", "combo": { "armor": [10105], "glider": [106] } },
+      { "name": "Venombite Wings Backpack and Glider Combo", "combo": { "armor": [10149], "glider": [107] } },
+      { "name": "Aurene Wings Backpack and Glider Combo", "combo": { "armor": [10200], "glider": [108] } },
+      { "name": "Jade Tech Wings Backpack and Glider Combo", "combo": { "armor": [10823], "glider": [112] } },
+      { "name": "Water Dragon Wings Backpack and Glider Combo", "combo": { "armor": [10912], "glider": [117] } },
+      { "name": "Lightning Wings Backpack and Glider Combo", "combo": { "armor": [11125], "glider": [119] } },
+      { "name": "Canthan Phoenix Wings Backpack and Glider Combo", "combo": { "armor": [11246], "glider": [120] } },
+      { "name": "Equinox Wings Backpack and Glider Combo", "combo": { "armor": [11253], "glider": [121] } },
+      { "name": "Shattered Stone Wings Backpack and Glider Combo", "combo": { "armor": [12103], "glider": [133] } }
     ]
   },
   // -----------------------------
@@ -770,8 +759,8 @@
   {
     "name": "combo-mini",
     "contents": [
-      // Back Item + Miniature
-      { "name": "Ghoul Backpack and Mini Set", "combo": { "back": [6431], "mini": [342] } },
+      // Armor + Miniature
+      { "name": "Ghoul Backpack and Mini Set", "combo": { "armor": [6431], "mini": [342] } },
       // Mount + Miniature
       { "name": "Kryptis Skyscale", "combo": { "mount": [580], "mini": [905] } },
       // Miniature Set
