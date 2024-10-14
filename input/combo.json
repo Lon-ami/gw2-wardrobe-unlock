@@ -714,6 +714,8 @@
       { "name": "Mad Realm Mounts Pack", "combo": { "mount": [130,131,132,133,134] } },
       { "name": "Shiverpeaks Mount Pack", "combo": { "mount": [153,154,155,157,158] } },
       { "name": "Mad King Mounts Pack", "combo": { "mount": [222,223,224,225,226] } },
+      // Mount
+      { "name": "Guild Wars 2: End of Dragons—Deluxe Upgrade", "combo": { "mount": [360,413] } }
       // Mount -> Raptor
       { "name": "Amnytas Feathered Raptors Mounts Pack", "combo": { "mount": [550,566,569] } },
       // Mount -> Springer
@@ -731,16 +733,6 @@
       { "name": "Astral Manticore Skyscale Mounts Pack", "combo": { "mount": [589,591,595] } },
       // Mount -> Siege Turtle
       { "name": "Siege Turtle Advent Mounts Pack", "combo": { "mount": [415,416,417,418,419] } }
-    ]
-  },
-  // -----------------------------
-  // -------- SKIFF COMBO --------
-  // -----------------------------
-  {
-    "name": "combo-skiff",
-    "contents": [
-      // Mount + Skiff
-      { "name": "Guild Wars 2: End of Dragons—Deluxe Upgrade", "combo": { "mount": [360], "skiff": [413] } }
     ]
   },
   // -------------------------------

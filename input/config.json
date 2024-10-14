@@ -108,13 +108,13 @@
       "cachePath": "jadebots",
       "bulkSupported": false,
       "stringIds": true
-    },
+    }/*,
     {
       "baseUrl": "https://api.guildwars2.com/v2/skiffs",
       "cachePath": "skiffs",
       "bulkSupported": false,
       "stringIds": true
-    }
+    }*/
   ],
   "prices": {
     "apiUrl": "https://api.guildwars2.com/v2/commerce/prices"
@@ -973,13 +973,13 @@
         // Skimmer
         "83968": [2]
       }
-    },
+    },/*
     {
       "id": "skiff",
       "name": "Skiff Skins",
       "source": "skiffs",
       "unlockUrl": "https://api.guildwars2.com/v2/account/skiffs"
-    },
+    }*/,
     {
       "id": "novelty",
       "name": "Novelties",
