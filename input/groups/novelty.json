@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X0) Guild Wars 2 (GW2)": {
+    "(X0) Central Tyria (GW2)": {
       "Elemental Potion": [
         72,
         120,
@@ -149,7 +149,8 @@
       "Standalone Novelty": [
         357,
         360,
-        362
+        362,
+        366
       ]
     },
     "(F2) Super Adventure Festival (SAB)": {
@@ -232,7 +233,8 @@
     },
     "Wizard's Vault (WV)": {
       "Standalone Novelty": [
-        350
+        350,
+        367
       ]
     },
     "Black Lion Trading Company (Gem Store)": {

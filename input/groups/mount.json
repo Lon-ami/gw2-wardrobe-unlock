@@ -34,7 +34,8 @@
     "Wizard's Vault (WV)": {
       "Enchanted": [
         585,
-        651
+        651,
+        706
       ]
     },
     "Black Lion Trading Company (Gem Store)": {
@@ -272,7 +273,8 @@
         621,
         644,
         646,
-        688
+        688,
+        707
       ],
       "Storm / Heavenly Thunder / Charged": [
         24,
@@ -534,7 +536,8 @@
         634,
         647,
         670,
-        689
+        689,
+        704
       ],
       "Standalone Mount -> Siege Turtle": [
         416,
@@ -556,7 +559,11 @@
         506,
         507,
         539,
-        573
+        573,
+        601,
+        608,
+        625,
+        655
       ]
     }
   }

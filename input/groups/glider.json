@@ -10,6 +10,11 @@
         43
       ]
     },
+    "(X6) Janthir Wilds (JW)": {
+      "Standalone Glider": [
+        142
+      ]
+    },
     "Wizard's Vault (WV)": {
       "Standalone Glider": [
         132
@@ -101,7 +106,8 @@
         129,
         130,
         131,
-        138
+        138,
+        141
       ],
       "Standalone Glider -> Armor -> Back -> Cape": [
         96,

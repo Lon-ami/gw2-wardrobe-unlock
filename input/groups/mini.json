@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X0) Guild Wars 2 (GW2)": {
+    "(X0) Central Tyria (GW2)": {
       "PvP League #01 - Llama": [
         228,
         321,
@@ -439,14 +439,28 @@
       "Lowland Kodan": [
         927,
         930,
-        932
+        932,
+        950,
+        956
+      ],
+      "Titanspawn": [
+        951,
+        953,
+        954
+      ],
+      "Warclaw Cub": [
+        947,
+        948,
+        949,
+        952
       ],
       "Standalone Miniature": [
         926,
         928,
         929,
         931,
-        935
+        935,
+        955
       ]
     },
     "(F1) Lunar New Year (LNY)": {
@@ -862,6 +876,18 @@
         867,
         868,
         869
+      ],
+      "Black Lion Chest #09 - Cuckoo Hatchling": [
+        937,
+        938,
+        939,
+        940,
+        941,
+        942,
+        943,
+        944,
+        945,
+        946
       ],
       "Mini Mounts Pack #01 - Spooky Mount": [
         599,
