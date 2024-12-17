@@ -1835,7 +1835,7 @@
         6074,
         6047
       ],
-      "Legendary Weapon Generation #02a - Tier 1": [
+      "Legendary Weapon Generation #02A - Tier 1": [
         6184,
         6237,
         6330,
@@ -1847,7 +1847,7 @@
         7318,
         7335
       ],
-      "Legendary Weapon Generation #02a - Tier 1 > Tier 2": [
+      "Legendary Weapon Generation #02A - Tier 1 > Tier 2": [
         6213,
         6285,
         6422,
@@ -1859,7 +1859,7 @@
         7298,
         7315
       ],
-      "Legendary Weapon Generation #02a - Tier 1 > Tier 2 > Tier 3": [
+      "Legendary Weapon Generation #02A - Tier 1 > Tier 2 > Tier 3": [
         6224,
         6331,
         6333,
@@ -1871,7 +1871,7 @@
         7306,
         7312
       ],
-      "Legendary Weapon Generation #02a - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
+      "Legendary Weapon Generation #02A - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
         6276,
         6466,
         6506,
@@ -2149,7 +2149,7 @@
         7439,
         7569
       ],
-      "Legendary Weapon Generation #02b - Tier 1": [
+      "Legendary Weapon Generation #02B - Tier 1": [
         7857,
         8034,
         8160,
@@ -2157,7 +2157,7 @@
         8598,
         8696
       ],
-      "Legendary Weapon Generation #02b - Tier 1 > Tier 2": [
+      "Legendary Weapon Generation #02B - Tier 1 > Tier 2": [
         7860,
         8036,
         8173,
@@ -2165,7 +2165,7 @@
         8589,
         8729
       ],
-      "Legendary Weapon Generation #02b - Tier 1 > Tier 2 > Tier 3": [
+      "Legendary Weapon Generation #02B - Tier 1 > Tier 2 > Tier 3": [
         7850,
         8046,
         8177,
@@ -2173,7 +2173,7 @@
         8600,
         8692
       ],
-      "Legendary Weapon Generation #02b - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
+      "Legendary Weapon Generation #02B - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
         7907,
         8051,
         8145,
@@ -4210,7 +4210,24 @@
         11975,
         11976
       ],
-      "Wintersday Weekly #02 - ????": [
+      "Wintersday Weekly #02 - Plush": [
+        12758,
+        12762,
+        12763,
+        12764,
+        12767,
+        12769,
+        12770,
+        12772,
+        12773,
+        12774,
+        12776,
+        12778,
+        12779,
+        12780,
+        12782,
+        12790,
+        12794
       ],
       "Candy Cane": [
         8534,
@@ -4229,6 +4246,11 @@
         9763,
         9766,
         9768
+      ],
+      "Gingerbread ": [
+        12755,
+        12771,
+        12791
       ],
       "Ornamented": [
         11947,
@@ -4342,7 +4364,8 @@
         10217,
         11177,
         11181,
-        11190
+        11190,
+        12757
       ]
     },
     "Bonus Event": {
@@ -6230,6 +6253,25 @@
         12670,
         12671
       ],
+      "Black Lion Claim Ticket #088 - Dragon Essence": [
+        12745,
+        12746,
+        12750,
+        12751,
+        12754,
+        12756,
+        12759,
+        12760,
+        12761,
+        12766,
+        12777,
+        12781,
+        12783,
+        12785,
+        12789,
+        12793,
+        12795
+      ],
       "Consortium": [
         3764,
         3782,
@@ -6380,7 +6422,9 @@
         12315,
         12508,
         12542,
-        12675
+        12675,
+        12753,
+        12768
       ]
     },
     "Promotional Event": {
