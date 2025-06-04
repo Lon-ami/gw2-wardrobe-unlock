@@ -12,7 +12,8 @@
     },
     "(X6) Janthir Wilds (JW)": {
       "Standalone Glider": [
-        142
+        142,
+        144
       ]
     },
     "Wizard's Vault (WV)": {
@@ -153,7 +154,8 @@
         120,
         121,
         133,
-        143
+        143,
+        145
       ],
       "Standalone Glider -> Novelty -> Chair": [
         73,
@@ -171,7 +173,8 @@
     },
     "Promotional Event": {
       "Standalone Glider": [
-        78
+        78,
+        146
       ]
     }
   }
