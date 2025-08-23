@@ -1838,7 +1838,7 @@
         6074,
         6047
       ],
-      "Legendary Weapon Generation #02a - Tier 1": [
+      "Legendary Weapon Generation #02A - Tier 1": [
         6184,
         6237,
         6330,
@@ -1850,7 +1850,7 @@
         7318,
         7335
       ],
-      "Legendary Weapon Generation #02a - Tier 1 > Tier 2": [
+      "Legendary Weapon Generation #02A - Tier 1 > Tier 2": [
         6213,
         6285,
         6422,
@@ -1862,7 +1862,7 @@
         7298,
         7315
       ],
-      "Legendary Weapon Generation #02a - Tier 1 > Tier 2 > Tier 3": [
+      "Legendary Weapon Generation #02A - Tier 1 > Tier 2 > Tier 3": [
         6224,
         6331,
         6333,
@@ -1874,7 +1874,7 @@
         7306,
         7312
       ],
-      "Legendary Weapon Generation #02a - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
+      "Legendary Weapon Generation #02A - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
         6276,
         6466,
         6506,
@@ -2144,7 +2144,7 @@
         7439,
         7569
       ],
-      "Legendary Weapon Generation #02b - Tier 1": [
+      "Legendary Weapon Generation #02B - Tier 1": [
         7857,
         8034,
         8160,
@@ -2152,7 +2152,7 @@
         8598,
         8696
       ],
-      "Legendary Weapon Generation #02b - Tier 1 > Tier 2": [
+      "Legendary Weapon Generation #02B - Tier 1 > Tier 2": [
         7860,
         8036,
         8173,
@@ -2160,7 +2160,7 @@
         8589,
         8729
       ],
-      "Legendary Weapon Generation #02b - Tier 1 > Tier 2 > Tier 3": [
+      "Legendary Weapon Generation #02B - Tier 1 > Tier 2 > Tier 3": [
         7850,
         8046,
         8177,
@@ -2168,7 +2168,7 @@
         8600,
         8692
       ],
-      "Legendary Weapon Generation #02b - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
+      "Legendary Weapon Generation #02B - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
         7907,
         8051,
         8145,
@@ -2414,7 +2414,7 @@
         8655
       ]
     },
-    "(X3) The Icebrood Saga (IBS)": {
+    "(LW5) The Icebrood Saga (IBS)": {
       "Ancient Boreal": [
         9010,
         9012,
@@ -2739,7 +2739,7 @@
         9993
       ]
     },
-    "(X4) End of Dragons (EoD)": {
+    "(X3) End of Dragons (EoD)": {
       "Elite Specialization Generation #03 - Tier 1": [
         10245,
         10246,
@@ -2798,7 +2798,7 @@
         10745,
         10756
       ],
-      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3a: Zhaitan": [
+      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3A: Zhaitan": [
         10260,
         10266,
         10284,
@@ -2816,7 +2816,7 @@
         10738,
         10739
       ],
-      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3b: Mordremoth": [
+      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3B: Mordremoth": [
         10320,
         10347,
         10353,
@@ -2834,7 +2834,7 @@
         10630,
         10711
       ],
-      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3c: Kralkatorrik": [
+      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3C: Kralkatorrik": [
         10251,
         10329,
         10355,
@@ -2852,7 +2852,7 @@
         10712,
         10748
       ],
-      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3d: Jormag": [
+      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3D: Jormag": [
         10250,
         10294,
         10301,
@@ -2870,7 +2870,7 @@
         10697,
         10747
       ],
-      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3e: Primordus": [
+      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3E: Primordus": [
         10252,
         10287,
         10288,
@@ -2888,7 +2888,7 @@
         10674,
         10696
       ],
-      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3f: Soo-Won": [
+      "Legendary Weapon Generation #03 - Tier 1 > Tier 2 > Tier 3F: Soo-Won": [
         10244,
         10259,
         10309,
@@ -3135,7 +3135,7 @@
         11537
       ]
     },
-    "(X5) Secrets of the Obscure (SotO)": {
+    "(X4) Secrets of the Obscure (SotO)": {
       "Abomination": [
         11582,
         11584,
@@ -3326,7 +3326,7 @@
         12192
       ]
     },
-    "(X6) Janthir Wilds (JW)": {
+    "(X5) Janthir Wilds (JW)": {
       "Blood Moon": [
         12673,
         12674,
@@ -3535,6 +3535,29 @@
         12579,
         12684,
         12722
+      ]
+    },
+    "(X6) Visions of Eternity (VoE)": {
+      "Chromatic Resin": [
+        13134,
+        13143,
+        13146,
+        13155,
+        13156,
+        13157,
+        13158,
+        13160,
+        13161,
+        13163,
+        13166,
+        13170,
+        13176,
+        13179,
+        13182,
+        13188,
+        13194
+      ],
+      "Standalone Weapon": [
       ]
     },
     "(F1) Lunar New Year (LNY)": {
@@ -4101,6 +4124,25 @@
         12349,
         12351
       ],
+      "Four Winds Weekly #03 - Leviathan Bone": [
+        13135,
+        13140,
+        13145,
+        13147,
+        13152,
+        13153,
+        13159,
+        13165,
+        13167,
+        13172,
+        13174,
+        13178,
+        13181,
+        13189,
+        13190,
+        13191,
+        13192
+      ],
       "Sovereign": [
         5248,
         5280,
@@ -4140,7 +4182,7 @@
       "Standalone Weapon": [
         10099,
         10101,
-        10108
+        10108,
         10911,
         10940,
         10949,
@@ -4150,7 +4192,10 @@
         11568,
         12325,
         12334,
-        12340
+        12340,
+        13137,
+        13138,
+        13149
       ]
     },
     "(F5) Shadow of the Mad King (Halloween)": {
@@ -5827,7 +5872,8 @@
         8991,
         8993,
         8997,
-        9000
+        9000,
+        13112
       ],
       "Black Lion Claim Ticket #057 - Draconic": [
         9094,
@@ -6226,7 +6272,8 @@
         11399,
         11403,
         11407,
-        11408
+        11408,
+        13139
       ],
       "Black Lion Claim Ticket #079 - Paladin's Decree": [
         11416,
@@ -6584,7 +6631,8 @@
         12675,
         12753,
         12768,
-        13008
+        13008,
+        13195
       ]
     },
     "Promotional Event": {

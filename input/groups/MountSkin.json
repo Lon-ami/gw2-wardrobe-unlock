@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X2) Path of Fire (PoF)": {
+    "(X2, LW4) Path of Fire (PoF)": {
       "Starter": [
         1,
         2,
@@ -15,18 +15,18 @@
         251
       ]
     },
-    "(X4) End of Dragons (EoD)": {
+    "(X3) End of Dragons (EoD)": {
       "Standalone Mount": [
         397,
         410
       ]
     },
-    "(X5) Secrets of the Obscure (SotO)": {
+    "(X4) Secrets of the Obscure (SotO)": {
       "Standalone Mount": [
         580
       ]
     },
-    "(X6) Janthir Wilds (JW)": {
+    "(X5) Janthir Wilds (JW)": {
       "Standalone Mount": [
         698
       ]
@@ -408,7 +408,8 @@
         368,
         375,
         633,
-        739
+        739,
+        755
       ],
       "Standalone Mount -> Jackal": [
         22,
@@ -558,7 +559,8 @@
         704,
         728,
         738,
-        741
+        741,
+        754
       ],
       "Standalone Mount -> Siege Turtle": [
         416,

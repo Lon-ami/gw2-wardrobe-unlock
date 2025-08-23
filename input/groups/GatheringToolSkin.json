@@ -1,13 +1,13 @@
 {
   "topLevelCategories": {
-    "(X0) Central Tyria (GW2)": {
+    "(X0, LW1, LW2) Central Tyria (GW2)": {
       "Starter": [
         2385,
         2388,
         2395
       ]
     },
-    "(X4) End of Dragons (EoD)": {
+    "(X3) End of Dragons (EoD)": {
       "Fishing Rod": [
         10602,
         10687,
@@ -34,6 +34,11 @@
         8459,
         8460,
         8509
+      ],
+      "Fairy Dust": [
+        13142,
+        13168,
+        13184
       ],
       "Fused": [
         2399,
@@ -69,6 +74,11 @@
         5884,
         5906,
         5951
+      ],
+      "Prospector": [
+        13162,
+        13164,
+        13187
       ],
       "Skyscale Hatchling": [
         8706,

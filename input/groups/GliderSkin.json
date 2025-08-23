@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X1) Heart of Thorns (HoT)": {
+    "(X1, LW3) Heart of Thorns (HoT)": {
       "Starter": [
         2
       ],
@@ -10,7 +10,7 @@
         43
       ]
     },
-    "(X6) Janthir Wilds (JW)": {
+    "(X5) Janthir Wilds (JW)": {
       "Standalone Glider": [
         142,
         144
@@ -155,7 +155,8 @@
         121,
         133,
         143,
-        145
+        145,
+        147
       ],
       "Standalone Glider -> Novelty -> Chair": [
         73,

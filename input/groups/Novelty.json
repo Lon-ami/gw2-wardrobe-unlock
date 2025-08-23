@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X0) Central Tyria (GW2)": {
+    "(X0, LW1, LW2) Central Tyria (GW2)": {
       "Elemental Potion": [
         72,
         120,
@@ -50,7 +50,7 @@
         230
       ]
     },
-    "(X1) Heart of Thorns (HoT)": {
+    "(X1, LW3) Heart of Thorns (HoT)": {
       "Chak Tonic": [
         102,
         214,
@@ -81,7 +81,7 @@
         255
       ]
     },
-    "(X2) Path of Fire (PoF)": {
+    "(X2, LW4) Path of Fire (PoF)": {
       "Casino Blitz Kite": [
         10,
         17,
@@ -107,7 +107,7 @@
         282
       ]
     },
-    "(X3) The Icebrood Saga (IBS)": {
+    "(LW5) The Icebrood Saga (IBS)": {
       "Standalone Novelty": [
         292,
         293,
@@ -115,7 +115,7 @@
         299
       ]
     },
-    "(X4) End of Dragons (EoD)": {
+    "(X3) End of Dragons (EoD)": {
       "Fishing Tonic": [
         335,
         336,
@@ -135,7 +135,7 @@
         332
       ]
     },
-    "(X5) Secrets of the Obscure (SotO)": {
+    "(X4) Secrets of the Obscure (SotO)": {
       "Standalone Novelty": [
         342,
         343,
@@ -145,7 +145,7 @@
         355
       ]
     },
-    "(X6) Janthir Wilds (JW)": {
+    "(X5) Janthir Wilds (JW)": {
       "Standalone Novelty": [
         357,
         359,
@@ -153,6 +153,10 @@
         362,
         366,
         370
+      ]
+    },
+    "(X6) Visions of Eternity (VoE)": {
+      "Standalone Novelty": [
       ]
     },
     "(F2) Super Adventure Festival (SAB)": {
@@ -290,7 +294,8 @@
         365,
         368,
         369,
-        372
+        372,
+        373
       ],
       "Standalone Novelty -> Musical Instrument": [
         2,

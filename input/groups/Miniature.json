@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X0) Central Tyria (GW2)": {
+    "(X0, LW1, LW2) Central Tyria (GW2)": {
       "PvP League #01 - Llama": [
         228,
         321,
@@ -76,7 +76,7 @@
         571
       ]
     },
-    "(X1) Heart of Thorns (HoT)": {
+    "(X1, LW3) Heart of Thorns (HoT)": {
       "Dragon's Watch": [
         462,
         465,
@@ -177,7 +177,7 @@
         582
       ]
     },
-    "(X2) Path of Fire (PoF)": {
+    "(X2, LW4) Path of Fire (PoF)": {
       "Awakened": [
         507,
         511,
@@ -335,7 +335,7 @@
         762
       ]
     },
-    "(X3) The Icebrood Saga (IBS)": {
+    "(LW5) The Icebrood Saga (IBS)": {
       "Corrupted Lost Spirit": [
         799,
         802,
@@ -368,7 +368,7 @@
         818
       ]
     },
-    "(X4) End of Dragons (EoD)": {
+    "(X3) End of Dragons (EoD)": {
       "Crustacean": [
         844,
         845,
@@ -397,7 +397,7 @@
         890
       ]
     },
-    "(X5) Secrets of the Obscure (SotO)": {
+    "(X4) Secrets of the Obscure (SotO)": {
       "Astral Ward": [
         893,
         903,
@@ -435,7 +435,7 @@
         897
       ]
     },
-    "(X6) Janthir Wilds (JW)": {
+    "(X5) Janthir Wilds (JW)": {
       "Journeykin": [
         947,
         948,
@@ -474,6 +474,10 @@
         960,
         961,
         967
+      ]
+    },
+    "(X6) Visions of Eternity (VoE)": {
+      "Standalone Miniature": [
       ]
     },
     "(F1) Lunar New Year (LNY)": {
@@ -542,7 +546,8 @@
         872,
         873,
         891,
-        925
+        925,
+        971
       ]
     },
     "(F5) Shadow of the Mad King (Halloween)": {

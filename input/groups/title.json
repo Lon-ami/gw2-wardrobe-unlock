@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X0) Central Tyria (GW2)": {
+    "(X0, LW1, LW2) Central Tyria (GW2)": {
       "Achiever": [
         162,
         163,
@@ -182,7 +182,7 @@
         213
       ]
     },
-    "(X1) Heart of Thorns (HoT)": {
+    "(X1, LW3) Heart of Thorns (HoT)": {
       "Standalone Title": [
         218,
         219,
@@ -210,7 +210,7 @@
         290
       ]
     },
-    "(X2) Path of Fire (PoF)": {
+    "(X2, LW4) Path of Fire (PoF)": {
       "Friend of Elona": [
         281,
         283,
@@ -243,7 +243,7 @@
         325
       ]
     },
-    "(X3) The Icebrood Saga (IBS)": {
+    "(LW5) The Icebrood Saga (IBS)": {
       "Standalone Title": [
         345,
         346,
@@ -262,7 +262,7 @@
         369
       ]
     },
-    "(X4) End of Dragons (EoD)": {
+    "(X3) End of Dragons (EoD)": {
       "Cod Swimming Amongst Mere Minnows": [
         374,
         376,
@@ -296,7 +296,7 @@
         399
       ]
     },
-    "(X5) Secrets of the Obscure (SotO)": {
+    "(X4) Secrets of the Obscure (SotO)": {
       "Standalone Title": [
         401,
         402,
@@ -316,7 +316,11 @@
         526
       ]
     },
-    "(X6) Janthir Wilds (JW)": {
+    "(X5) Janthir Wilds (JW)": {
+      "Standalone Title": [
+      ]
+    },
+    "(X6) Visions of Eternity (VoE)": {
       "Standalone Title": [
       ]
     },

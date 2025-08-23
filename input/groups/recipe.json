@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X0) Central Tyria (GW2)": {
+    "(X0, LW1, LW2) Central Tyria (GW2)": {
       "Beginner Attribute Sets #01: Mighty": [
         996,
         998,
@@ -2364,7 +2364,7 @@
         13005
       ]
     },
-    "(X1) Heart of Thorns (HoT)": {
+    "(X1, LW3) Heart of Thorns (HoT)": {
       "Advanced Attribute Sets #022: Commander": [
         10003,
         10115,
@@ -3658,7 +3658,7 @@
         12949
       ]
     },
-    "(X2) Path of Fire (PoF)": {
+    "(X2, LW4) Path of Fire (PoF)": {
       "Advanced Attribute Sets #031: Harrier -> Brandspark": [
         12142,
         12183,
@@ -4246,7 +4246,7 @@
         12467
       ]
     },
-    "(X3) The Icebrood Saga (IBS)": {
+    "(LW5) The Icebrood Saga (IBS)": {
       "Boreal Bag": [
         13276,
         13292,
@@ -4457,7 +4457,7 @@
         13265
       ]
     },
-    "(X4) End of Dragons (EoD)": {
+    "(X3) End of Dragons (EoD)": {
       "Advanced Attribute Sets #037: Dragon": [
         13736,
         13759
@@ -4769,7 +4769,7 @@
         13881
       ]
     },
-    "(X5) Secrets of the Obscure (SotO)": {
+    "(X4) Secrets of the Obscure (SotO)": {
       "Consecrated Saryx Weapon": [
         14045,
         14046,
@@ -4854,7 +4854,11 @@
         14035
       ]
     },
-    "(X6) Janthir Wilds (JW)": {
+    "(X5) Janthir Wilds (JW)": {
+      "Standalone Recipe": [
+      ]
+    },
+    "(X6) Visions of Eternity (VoE)": {
       "Standalone Recipe": [
       ]
     },

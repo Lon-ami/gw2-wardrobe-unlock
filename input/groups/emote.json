@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X3) The Icebrood Saga (IBS)": {
+    "(LW5) The Icebrood Saga (IBS)": {
       "Standalone Emote": [
         "playdead",
         "rockout",
@@ -9,21 +9,17 @@
         "Stretch"
       ]
     },
-    "(X4) End of Dragons (EoD)": {
+    "(X3) End of Dragons (EoD)": {
       "Rock, Paper, Scissors": [
         "Paper",
         "Rock",
         "Scissors"
       ]
     },
-    "(X5) Secrets of the Obscure (SotO)": {
+    "(X4) Secrets of the Obscure (SotO)": {
       "Standalone Emote": [
         "Heroic",
         "Possessed"
-      ]
-    },
-    "(X6) Janthir Wilds (JW)": {
-      "Standalone Emote": [
       ]
     },
     "Wizard's Vault (WV)": {
@@ -38,7 +34,7 @@
         "step"
       ],
       "Standalone Emote": [
-        "BlowKiss"
+        "BlowKiss",
         "Hiss",
         "MagicJuggle",
         "Readbook",

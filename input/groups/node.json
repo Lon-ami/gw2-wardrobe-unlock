@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "(X0) Central Tyria (GW2)": {
+    "(X0, LW1, LW2) Central Tyria (GW2)": {
       "Standalone Node": [
         "bandit_chest",
         "enchanted_treasure_chest",
@@ -8,7 +8,7 @@
         "sprocket_generator"
       ]
     },
-    "(X1) Heart of Thorns (HoT)": {
+    "(X1, LW3) Heart of Thorns (HoT)": {
       "Standalone Node": [
         "airship_cargo",
         "aurilium_node",
@@ -22,7 +22,7 @@
         "winterberry_bush"
       ]
     },
-    "(X2) Path of Fire (PoF)": {
+    "(X2, LW4) Path of Fire (PoF)": {
       "Standalone Node": [
         "brandstone_node",
         "difluorite_crystal_cluster_node",
@@ -32,12 +32,16 @@
         "mistonium_node"
       ]
     },
-    "(X3) The Icebrood Saga (IBS)": {
+    "(LW5) The Icebrood Saga (IBS)": {
       "Standalone Node": [
         "bound_hatched_chili_pepper_node",
         "eternal_ice_shard_node",
         "prismaticite_node",
         "salvage_pile"
+      ]
+    },
+    "(X5) Janthir Wilds (JW)": {
+      "Standalone Node": [
       ]
     },
     "(F2) Super Adventure Festival (SAB)": {
